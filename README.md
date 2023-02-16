@@ -1,6 +1,4 @@
 # dissertacao_etapa1
- 
-Repositório de dados, códigos e análises utilizados em minha dissertação para obtenção do título de mestre em Demografia pela UNICAMP.
 
 Estado de São Paulo
 •	Dados extraídos do SIM: https://datasus.saude.gov.br/informacoes-de-saude-tabnet/
