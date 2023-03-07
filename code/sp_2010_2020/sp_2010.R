@@ -60,6 +60,7 @@ df4 <- filter(df3, cid_grupos == 'Neoplasmas'|
                 cid_grupos == 'Doenças do aparelho geniturinário'|
                 cid_grupos == 'Códigos para propósitos especiais'|
                 cid_grupos == 'Outros')
+
 df4 <- df4[, -1]
 
 # pivoteando o df

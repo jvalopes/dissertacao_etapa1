@@ -47,7 +47,8 @@ df2 <- df %>%
     substr(cid10, 1,1) == "I" ~ 'Doenças do aparelho circulatório',
     substr(cid10, 1,1) == "J" ~ 'Doenças do aparelho respiratório',
     substr(cid10, 1,1) == "N" ~ 'Doenças do aparelho geniturinário',
-    substr(cid10, 1,1) == "U" ~ 'Códigos para propósitos especiais'))
+    substr(cid10, 1,1) == "U" ~ 'Códigos para propósitos especiais',
+    TRUE ~ 'Outros'))
 
 df3 <- df2 %>% relocate(cid_grupos, .after = cid10)
 
@@ -57,7 +58,9 @@ df4 <- filter(df3, cid_grupos == 'Neoplasmas'|
                 cid_grupos == 'Doenças do aparelho circulatório'|
                 cid_grupos == 'Doenças do aparelho respiratório'|
                 cid_grupos == 'Doenças do aparelho geniturinário'|
-                cid_grupos == 'Códigos para propósitos especiais')
+                cid_grupos == 'Códigos para propósitos especiais'|
+                cid_grupos == 'Outros')
+
 df4 <- df4[, -1]
 
 # pivoteando o df
@@ -70,6 +73,15 @@ df4 %>% pivot_longer(!cid_grupos) %>% na.omit() %>%
   ) -> df5
 
 df5 <- df5 %>% relocate('5 a 9 anos', .after = '0 a 4 anos')
+
+# obtendo total
+# para as colunas
+totais <- colSums(df5[, 2:ncol(df5)], na.rm = T)
+totais <- as.list(totais)
+df5[nrow(df5) + 1, ] <- c("Total", totais)
+
+# para as linhas
+df5$'Total' <- rowSums(df5[, 2:19], na.rm = T)
 
 setwd('C:/Users/User/Documents/dissertacao_etapa1/analysis_SP')
 export(df5, "sp2011_c.xlsx")
