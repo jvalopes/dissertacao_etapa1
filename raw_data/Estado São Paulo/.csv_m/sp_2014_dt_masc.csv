@@ -1,0 +1,1000 @@
+ Mortalidade - Brasil
+Óbitos p/Residênc por Categoria CID-10 e Faixa Etária det
+Unidade da Federação: São Paulo
+Sexo: Masc
+Período:2014
+"Categoria CID-10";"0 a 6 dias";"7 a 27 dias";"28 a 364 dias";"1 a 4 anos";"5 a 9 anos";"10 a 14 anos";"15 a 19 anos";"20 a 24 anos";"25 a 29 anos";"30 a 34 anos";"35 a 39 anos";"40 a 44 anos";"45 a 49 anos";"50 a 54 anos";"55 a 59 anos";"60 a 64 anos";"65 a 69 anos";"70 a 74 anos";"75 a 79 anos";"80 anos e mais";"Idade ignorada";"Total"
+"A02   Outr infecc p/Salmonella";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"A03   Shiguelose";-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"A04   Outr infecc intestinais bacter";-;-;1;-;-;-;-;1;-;-;-;-;-;3;6;1;3;1;3;6;-;25
+"A05   Outr intox alimentares bacter NCOP";-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;2
+"A06   Amebiase";-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;2;-;-;-;3;-;7
+"A07   Outr doenc intestinais p/protozoarios";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;2
+"A08   Infecc intestinais virais outr e as NE";-;-;-;1;-;-;-;-;1;-;-;-;1;-;-;-;-;2;-;3;-;8
+"A09   Diarreia e gastroenterite orig infecc presum";-;2;19;6;1;1;1;1;1;1;2;10;9;8;12;16;14;24;30;73;-;231
+"A15   Tuberc respirat c/conf bacteriol e histolog";-;-;-;-;-;-;1;1;3;3;13;4;13;19;10;11;7;7;2;3;1;98
+"A16   Tuberc vias respirat s/conf bacter histol";-;-;1;-;-;-;2;9;20;25;27;51;49;69;52;57;35;25;21;24;6;473
+"A17   Tuberc do sist nervoso";-;-;-;-;-;-;-;2;-;1;-;-;-;-;3;1;1;-;-;1;-;9
+"A18   Tuberc de outr orgaos";-;-;-;-;-;-;-;1;-;-;-;1;3;1;1;4;-;-;-;-;-;11
+"A19   Tuberc miliar";-;-;-;-;-;-;-;-;1;4;7;6;6;5;5;4;2;1;2;-;-;43
+"A26   Erisipeloide";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;2;-;-;-;-;4
+"A27   Leptospirose";-;-;-;-;-;3;3;4;5;4;6;4;3;9;11;3;2;2;1;2;-;62
+"A30   Hanseniase";-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;1;-;-;1;2;-;6
+"A31   Infecc dev outr micobacterias";-;-;1;-;-;-;-;1;3;-;-;-;-;1;3;4;6;3;3;4;-;29
+"A35   Outr tipos de tetano";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;2;-;-;1;-;-;4
+"A37   Coqueluche";-;1;14;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;15
+"A39   Infecc meningogocica";-;-;6;4;7;5;5;3;4;-;8;4;2;3;-;1;2;-;-;-;-;54
+"A40   Septicemia estreptococica";-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;2;2;2;4;4;-;16
+"A41   Outr septicemias";-;-;51;21;4;4;9;14;10;17;33;33;55;71;112;119;121;159;177;385;5;1400
+"A42   Actinomicose";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;-;-;3
+"A43   Nocardiose";-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;1
+"A46   Erisipela";-;-;-;-;-;-;1;-;3;1;1;2;5;7;20;19;15;20;19;40;-;153
+"A48   Outr doenc bacter NCOP";-;-;1;-;-;-;-;-;1;-;2;1;2;1;-;5;-;3;1;6;-;23
+"A49   Infecc bacter de localiz NE";-;-;1;-;-;-;-;1;-;-;-;2;-;-;1;1;-;1;-;6;-;13
+"A50   Sifilis congen";8;3;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;12
+"A52   Sifilis tard";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;1;-;3
+"A53   Outr form e as NE da sifilis";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1
+"A56   Outr infecc p/clamidias transm p/via sexual";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"A66   Bouba";-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;1
+"A69   Outr infecc p/espiroquetas";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;2
+"A77   Febre maculosa";-;-;-;-;-;1;2;2;-;-;2;2;2;3;5;1;4;-;-;-;-;24
+"A81   Infecc p/virus atipicos sist nervoso central";-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;1;2;3;-;-;-;9
+"A85   Outr encefalites virais NCOP";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"A86   Encefalite viral NE";-;-;-;1;-;-;1;1;-;-;4;1;2;5;1;-;6;2;1;1;-;26
+"A87   Meningite viral";-;-;2;1;-;-;-;1;-;-;1;-;2;-;-;2;-;-;-;-;-;9
+"A90   Dengue";-;-;-;-;-;-;-;-;2;1;1;1;2;1;-;3;5;2;1;7;-;26
+"A91   Febre hemorragica dev virus do dengue";-;-;-;-;2;1;-;-;-;-;-;-;-;1;-;2;2;1;2;2;-;13
+"A94   Febre viral transm p/artropodes NE";-;-;-;-;-;-;-;-;1;-;-;1;-;-;-;-;1;-;-;-;-;3
+"A98   Outr febres hemorragicas p/virus NCOP";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1
+"A99   Febres hemorragicas virais NE";-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;-;-;-;-;-;2
+"B00   Infecc p/virus do herpes";-;-;1;-;-;-;-;-;-;-;-;1;-;2;-;-;-;2;1;4;-;11
+"B01   Varicela";-;-;2;7;1;-;-;2;-;-;1;-;1;-;-;-;-;1;-;2;-;17
+"B02   Herpes zoster";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;3;1;-;1;4;-;10
+"B15   Hepatite aguda A";-;-;-;-;-;-;-;-;-;-;1;1;1;-;-;-;2;-;-;-;-;5
+"B16   Hepatite aguda B";-;-;-;-;-;-;-;-;1;-;1;2;6;4;2;3;1;1;-;3;-;24
+"B17   Outr hepatites virais agudas";-;-;-;-;-;-;-;-;-;-;2;4;8;12;4;9;4;5;1;-;-;49
+"B18   Hepatite viral cronica";-;-;-;-;-;-;-;-;1;4;11;21;51;69;81;77;51;34;14;8;-;422
+"B19   Hepatite viral NE";-;-;-;-;-;-;1;1;1;2;1;3;1;3;1;3;1;-;2;2;-;22
+"B20   Doenc p/HIV result doenc infecc e parasit";-;-;-;1;-;1;12;42;87;153;180;225;251;170;120;63;42;19;6;7;2;1381
+"B21   Doenc p/HIV result em neopl malig";-;-;-;-;-;-;-;1;1;6;8;5;10;8;5;4;-;-;-;1;-;49
+"B22   Doenc p/HIV result em outr doenc espec";-;-;-;-;1;-;1;1;22;28;27;42;40;23;27;8;6;4;-;4;-;234
+"B23   Doenc p/HIV result em outr doenc";-;-;-;-;-;-;-;-;-;1;2;2;5;4;2;-;-;1;-;-;-;17
+"B24   Doenc p/HIV NE";-;-;-;-;-;-;-;3;10;12;23;24;31;24;18;16;7;2;-;-;-;170
+"B25   Doenc p/citomegalovirus";-;-;-;1;-;1;1;-;-;-;-;1;1;-;-;-;-;-;-;-;-;5
+"B26   Caxumba";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"B27   Mononucleose infecc";-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"B33   Outr doenc p/virus NCOP";-;-;-;1;-;-;-;1;-;-;-;1;-;-;-;-;1;-;-;-;-;4
+"B34   Doenc p/virus de localiz NE";-;-;-;1;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;3
+"B37   Candidiase";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;2
+"B40   Blastomicose";-;-;-;-;-;-;-;-;-;1;-;-;2;-;1;1;1;1;-;-;-;7
+"B41   Paracoccidioidomicose";-;-;-;-;-;-;-;-;1;-;1;-;2;2;-;-;2;3;-;-;-;11
+"B44   Aspergilose";-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;1;1;1;-;5
+"B45   Criptococose";-;-;-;-;-;-;-;2;-;3;2;1;1;2;6;1;1;1;1;-;-;21
+"B48   Outr micoses NCOP";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;-;2
+"B49   Micose NE";-;-;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2
+"B50   Malaria p/Plasmodium falciparum";-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;-;-;-;2
+"B54   Malaria NE";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1
+"B55   Leishmaniose";-;-;-;-;1;-;-;-;1;-;-;1;-;-;1;2;2;3;2;1;-;14
+"B57   Doenc de Chagas";-;-;-;-;-;-;1;-;1;3;6;24;33;34;49;67;72;73;72;97;1;533
+"B58   Toxoplasmose";-;-;1;-;-;-;-;-;-;1;-;-;-;1;-;1;-;-;-;-;-;4
+"B59   Pneumocistose";-;-;-;-;-;-;-;-;2;-;3;-;-;-;1;-;2;-;-;1;-;9
+"B65   Esquistossomose";-;-;-;-;-;-;-;-;-;-;-;2;2;2;4;7;5;3;3;3;-;31
+"B67   Equinococose";-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;1
+"B68   Infestacao p/Taenia";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1
+"B69   Cisticercose";-;-;-;-;-;-;-;-;-;-;1;1;-;1;2;-;1;2;-;-;-;8
+"B78   Estrongiloidiase";-;-;-;-;-;-;-;2;-;-;-;-;-;2;-;-;-;-;-;-;-;4
+"B81   Outr helmintiases intestinais NCOP";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1
+"B83   Outr helmintiases";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;2
+"B87   Miiase";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;1;1;-;-;-;4
+"B89   Doenc parasit NE";-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"B90   Sequelas de tuberc";-;-;-;-;-;-;-;-;-;2;2;2;6;9;2;10;5;1;2;6;-;47
+"B91   Sequelas de poliomielite";-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;2;1;1;-;1;-;9
+"B92   Sequelas de hanseniase";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;1;1;-;4
+"B94   Sequelas de outr doenc infecc e parasit e NE";-;-;-;-;-;-;3;1;-;-;1;2;1;1;1;1;-;2;2;1;-;16
+"B99   Doenc infecc outr e as NE";-;-;-;1;-;-;-;1;-;-;-;-;-;-;1;1;-;1;-;1;-;6
+"C00   Neopl malig do labio";-;-;-;-;-;-;-;-;-;-;-;1;-;-;2;2;1;-;-;4;-;10
+"C01   Neopl malig da base da lingua";-;-;-;-;-;-;-;-;-;-;1;10;12;21;31;32;21;11;6;4;-;149
+"C02   Neopl malig outr partes e NE da lingua";-;-;-;-;-;-;-;-;-;1;3;9;24;31;55;29;34;17;12;12;-;227
+"C03   Neopl malig da gengiva";-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;2;-;1;-;-;-;5
+"C04   Neopl malig do assoalho da boca";-;-;-;-;-;-;-;-;-;1;-;4;4;6;8;6;4;4;2;2;-;41
+"C05   Neopl malig do palato";-;-;-;-;-;-;-;-;-;-;1;2;3;4;9;15;7;10;4;7;-;62
+"C06   Neopl malig outr partes e partes NE da boca";-;-;-;-;-;-;-;-;-;1;2;4;13;25;30;24;19;24;10;12;-;164
+"C07   Neopl malig da gland parotida";-;-;-;-;-;-;1;-;-;-;-;1;1;2;5;7;3;8;9;7;-;44
+"C08   Neopl malig outr gland saliv maiores e NE";-;-;-;-;-;-;-;-;1;1;-;-;-;1;1;2;-;1;1;3;-;11
+"C09   Neopl malig da amigdala";-;-;-;-;-;-;-;-;-;-;-;-;3;6;5;9;7;2;2;-;-;34
+"C10   Neopl malig da orofaringe";-;-;-;-;-;-;-;-;-;1;1;15;36;60;88;63;60;33;29;20;-;406
+"C11   Neopl malig da nasofaringe";-;-;-;-;1;-;-;1;1;-;-;5;8;4;6;3;10;5;1;-;-;45
+"C12   Neopl malig do seio piriforme";-;-;-;-;-;-;-;-;-;-;-;1;2;4;5;9;3;2;3;1;-;30
+"C13   Neopl malig da hipofaringe";-;-;-;-;-;-;-;-;-;-;3;1;5;11;24;20;15;8;3;5;-;95
+"C14   Neop mal out loc mal def labio cav oral far";-;-;-;-;-;-;1;-;-;1;1;5;12;19;28;37;25;18;20;17;-;184
+"C15   Neopl malig do esofago";-;-;-;-;-;-;-;-;2;1;14;23;92;181;233;247;212;135;101;125;1;1367
+"C16   Neopl malig do estomago";-;-;-;-;-;-;1;-;6;14;36;55;95;138;270;295;320;323;311;394;-;2258
+"C17   Neopl malig do intestino delgado";-;-;-;-;-;-;-;-;-;1;2;4;3;7;20;18;13;13;11;22;-;114
+"C18   Neopl malig do colon";-;-;-;-;-;-;-;5;7;12;13;34;64;100;174;216;224;234;230;319;-;1632
+"C19   Neopl malig da juncao retossigmoide";-;-;-;-;-;-;-;-;2;-;4;2;6;10;14;28;22;28;25;46;-;187
+"C20   Neopl malig do reto";-;-;-;-;-;-;-;1;4;8;17;13;28;56;90;94;90;101;83;110;-;695
+"C21   Neopl malig do anus e do canal anal";-;-;-;-;-;-;-;-;-;-;2;4;4;3;7;1;2;5;4;2;-;34
+"C22   Neopl malig figado vias biliares intra-hepat";-;-;2;-;-;-;2;2;1;10;15;22;53;119;182;211;228;173;148;189;-;1357
+"C23   Neopl malig da vesicula biliar";-;-;-;-;-;-;-;-;-;-;2;-;2;3;4;9;13;11;18;15;-;77
+"C24   Neopl malig outr partes e NE vias biliares";-;-;-;-;-;-;-;-;1;-;4;6;7;18;23;20;22;41;28;36;-;206
+"C25   Neopl malig do pancreas";-;-;-;-;-;-;-;3;-;7;12;18;49;109;153;183;185;160;177;217;-;1273
+"C26   Neopl malig outr mal def aparelho digestivo";-;-;-;-;-;-;-;1;4;2;6;8;12;29;38;67;68;68;65;107;-;475
+"C30   Neopl malig cavidade nasal e do ouvido medio";-;-;-;-;-;-;-;-;-;-;-;-;1;-;4;-;-;1;-;2;-;8
+"C31   Neopl malig dos seios da face";-;-;-;-;-;-;-;1;-;-;-;-;2;2;3;3;4;4;2;4;-;25
+"C32   Neopl malig da laringe";-;-;-;-;-;-;1;-;1;-;5;20;68;120;156;164;128;107;78;92;-;940
+"C33   Neopl malig da traqueia";-;-;-;-;-;-;-;-;-;-;-;-;-;5;1;1;8;1;2;2;-;20
+"C34   Neopl malig dos bronquios e dos pulmoes";-;-;-;1;1;1;1;6;4;5;15;43;106;231;447;565;602;586;494;584;1;3693
+"C37   Neopl malig do timo";-;-;-;-;-;-;-;-;-;-;1;-;1;-;1;-;1;-;-;1;-;5
+"C38   Neopl malig do coracao mediastino e pleura";-;-;1;-;-;1;1;2;6;6;2;4;4;9;12;11;16;11;8;13;-;107
+"C39   Neop mal out loc mal def ap resp org intrat";-;-;-;-;-;-;-;-;-;-;1;-;2;1;3;4;1;-;3;6;-;21
+"C40   Neopl malig ossos/cartilag artic membros";-;-;-;-;-;1;3;3;-;2;1;1;-;1;4;2;3;1;2;7;-;31
+"C41   Neopl malig ossos/cartil artic outr loc e NE";-;-;-;1;1;3;14;7;4;3;5;9;13;20;22;16;23;21;20;25;-;207
+"C43   Melanoma malig da pele";-;-;-;-;-;-;1;2;2;6;3;13;18;22;29;31;35;33;32;40;-;267
+"C44   Outr neopl malig da pele";-;-;-;-;-;-;-;-;-;2;1;2;8;8;10;20;15;23;32;72;-;193
+"C45   Mesotelioma";-;-;-;-;-;-;-;-;-;-;-;1;1;4;2;5;4;3;-;3;-;23
+"C46   Sarcoma de Kaposi";-;-;-;-;-;-;1;-;1;-;-;-;-;-;2;1;-;1;-;1;-;7
+"C47   Neopl malig nervos perif e sist nerv autonom";-;-;-;-;1;-;1;-;1;1;-;2;-;-;-;1;-;-;-;1;-;8
+"C48   Neopl malig tec moles retro- e peritonio";-;-;-;-;-;1;-;-;2;2;5;8;6;3;14;23;18;11;15;26;-;134
+"C49   Neopl malig tec conjuntivo e outr tec moles";-;-;-;2;2;2;2;2;6;4;13;8;10;11;16;11;11;13;9;16;-;138
+"C50   Neopl malig da mama";-;-;-;-;-;-;-;-;-;1;-;-;1;9;2;3;5;2;8;8;-;39
+"C60   Neopl malig do penis";-;-;-;-;-;-;-;-;2;1;-;4;2;2;13;9;4;6;5;12;-;60
+"C61   Neopl malig da prostata";-;-;-;1;-;-;-;1;-;-;-;4;14;48;79;191;334;421;547;1245;-;2885
+"C62   Neopl malig dos testiculos";-;-;-;-;-;-;8;12;21;16;20;10;3;1;2;3;1;-;1;6;-;104
+"C63   Neopl malig outr org genit masc e NE";-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;2;1;1;1;3;-;9
+"C64   Neopl malig do rim exceto pelve renal";-;-;1;2;-;-;2;2;1;2;7;13;33;38;48;65;64;59;44;72;-;453
+"C65   Neopl malig da pelve renal";-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;2;2;2;2;-;9
+"C66   Neopl malig dos ureteres";-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;1;2;2;-;1;-;9
+"C67   Neopl malig da bexiga";-;-;-;-;-;-;-;-;1;1;4;5;6;14;41;75;91;109;138;249;-;734
+"C68   Neopl malig de outr orgaos urinarios e NE";-;-;-;-;-;-;-;-;-;-;1;-;1;3;6;3;5;4;4;7;-;34
+"C69   Neopl malig do olho e anexos";-;-;-;2;-;-;-;-;-;-;-;-;1;2;1;-;2;5;3;4;-;20
+"C70   Neopl malig das meninges";-;-;-;1;-;-;-;1;-;-;1;-;-;-;2;2;2;2;4;-;-;15
+"C71   Neopl malig do encefalo";-;1;2;18;25;16;14;8;32;35;29;52;75;75;104;146;132;95;87;94;-;1040
+"C72   Neop mal med esp nerv cran out sist nerv cen";-;-;1;6;2;6;-;1;3;2;3;4;8;10;15;13;19;11;12;10;-;126
+"C73   Neopl malig da gland tireoide";-;-;-;-;-;-;-;-;-;-;-;-;3;6;7;13;5;7;10;12;-;63
+"C74   Neopl malig da gland supra-renal";-;-;2;4;7;-;1;-;1;1;-;-;1;5;3;3;5;5;3;2;-;43
+"C75   Neopl malig outr gland endocrinas estr relac";-;-;-;-;-;-;-;-;-;1;1;4;2;1;1;3;3;3;3;4;-;26
+"C76   Neopl malig outr localiz e mal definidas";-;-;-;1;1;1;1;1;2;1;11;19;25;47;57;69;48;46;53;72;1;456
+"C77   Neopl malig secund e NE gangl linfaticos";-;-;-;-;-;-;-;-;-;-;1;1;-;4;3;2;4;1;1;1;-;18
+"C78   Neopl malig secund org respirat e digestivos";-;-;-;-;1;-;-;2;1;4;9;16;14;32;55;67;55;61;60;49;-;426
+"C79   Neopl malig secund de outr localiz";-;-;-;1;-;-;2;1;2;3;4;7;10;22;33;29;35;30;17;41;-;237
+"C80   Neopl malig s/especificacao de localiz";-;-;-;-;-;-;-;4;10;8;7;15;42;58;95;137;111;105;104;152;2;850
+"C81   Doenc de Hodgkin";-;-;-;-;-;1;3;7;7;6;6;3;7;7;9;5;3;7;6;6;-;83
+"C82   Linfoma nao-Hodgkin folicular";-;-;-;-;-;-;-;-;-;-;-;-;-;2;2;2;3;4;3;3;-;19
+"C83   Linfoma nao-Hodgkin difuso";-;-;-;1;1;3;2;2;4;2;5;1;3;6;4;6;8;6;8;10;-;72
+"C84   Linfomas de celulas T cutaneas e perifericas";-;-;-;-;-;2;-;1;1;-;-;3;2;5;2;5;4;5;1;7;-;38
+"C85   Linfoma nao-Hodgkin de outr tipos e tipo NE";-;-;-;1;3;3;7;10;11;10;8;16;26;25;50;58;62;34;64;85;-;473
+"C88   Doenc imunoproliferativas malignas";-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;1;1;1;-;6
+"C90   Mieloma mult e neopl malig de plasmocitos";-;-;-;-;-;-;-;-;-;3;-;5;20;21;64;62;59;61;59;71;-;425
+"C91   Leucemia linfoide";-;-;1;9;15;9;21;14;10;8;7;8;8;2;14;20;9;17;25;44;-;241
+"C92   Leucemia mieloide";-;-;1;5;3;9;5;15;11;20;18;18;13;25;21;37;38;55;54;58;-;406
+"C93   Leucemia monocitica";-;-;-;-;-;1;-;-;-;-;-;-;1;-;-;-;2;1;1;1;-;7
+"C94   Outr leucemias de celulas de tipo espec";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;5;3;1;-;11
+"C95   Leucemia de tipo celular NE";-;-;-;3;2;-;2;3;1;4;5;8;9;6;3;17;15;19;24;35;-;156
+"C96   Outr neopl mal e NE tec linf hematop e corr";-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;1;2;1;3;1;-;10
+"C97   Neopl malig de localiz mult independentes";-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;2;2;1;6;2;-;16
+"D00   Carcinoma in situ cav oral esofago estomago";-;-;-;-;-;-;-;-;-;-;1;-;1;1;-;3;1;3;-;1;-;11
+"D01   Carcinoma in situ de outr orgaos digestivos";-;-;-;-;-;-;-;-;-;-;-;1;1;1;2;2;-;-;3;-;-;10
+"D02   Carcinoma in situ ouvido medio e ap respirat";-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;2;3;1;5;3;-;16
+"D03   Melanoma in situ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;2
+"D04   Carcinoma in situ da pele";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;1;2;-;5
+"D05   Carcinoma in situ da mama";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"D07   Carcinoma in situ outr orgaos genitais e NE";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;6;-;8
+"D09   Carcinoma in situ de outr localiz e das NE";-;-;-;-;-;-;-;-;1;-;-;2;1;1;2;2;2;1;3;7;-;22
+"D10   Neopl benig da boca e da faringe";-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;1
+"D12   Neopl benig do colon reto canal anal e anus";-;-;-;-;-;-;1;-;-;1;-;-;-;-;1;-;-;-;1;3;-;7
+"D13   Neopl benig outr part e mal def ap digestivo";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;-;-;3
+"D14   Neopl benig ouvido medio e aparelho respirat";-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;-;1;1;-;2;-;7
+"D15   Neopl benig outr orgaos intratoracicos e NE";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;2
+"D16   Neopl benig de osso e cartilagem articular";-;-;1;-;-;-;-;-;-;1;-;-;1;-;-;-;-;-;-;-;-;3
+"D17   Neopl lipomatosa benig";1;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-;-;-;1;-;4
+"D18   Hemangioma e linfangioma de qualquer localiz";1;-;-;-;-;-;-;1;-;-;-;-;-;-;2;1;1;-;-;1;-;7
+"D19   Neopl benig de tec mesotelial";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;-;3
+"D20   Neopl benig tec mole retro- e peritonio";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1
+"D21   Outr neopl benig tec conj e outr tec moles";1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-;3
+"D29   Neopl benig dos orgaos genitais masc";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;-;-;3
+"D32   Neopl benig das meninges";-;-;-;-;-;-;-;-;-;-;2;-;2;-;5;4;3;4;4;4;-;28
+"D33   Neopl benig encef e out part sist nerv centr";-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;2;2;-;2;-;8
+"D35   Neopl benig de outr gland endocrinas e NE";-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;2;-;-;-;1;-;5
+"D36   Neopl benig de outr localiz e de localiz NE";-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;2;-;1;-;5
+"D37   Neopl comp incerto/desc cav oral e org dig";-;-;-;-;-;-;-;-;-;-;-;-;1;3;6;4;6;8;3;13;-;44
+"D38   Neopl comp inc/desc ouv med org resp intrat";-;-;-;-;-;-;-;-;1;-;1;1;1;1;9;8;3;9;8;14;1;57
+"D40   Neopl comp incerto/desconh org genitais masc";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;2;3;6;-;12
+"D41   Neopl comp incerto/desconh orgaos urinarios";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;1;-;4
+"D42   Neopl comp incerto/desconhecido meninges";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1
+"D43   Neopl comp inc/desc encefalo sist nerv centr";-;-;-;1;-;-;-;1;1;2;2;2;4;2;3;9;2;8;1;4;-;42
+"D44   Neopl comp incerto/desconh gland endocrinas";-;-;-;-;-;1;-;-;-;-;-;1;1;1;-;1;-;-;-;-;-;5
+"D45   Policitemia vera";-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;1;1;-;2;-;7
+"D46   Sindr mielodisplasicas";-;-;-;-;1;1;-;-;1;1;-;-;5;3;4;13;13;22;24;46;-;134
+"D47   Out neop comp inc/des tec linf hemat tec cor";-;-;-;-;-;1;-;1;-;-;1;1;2;1;4;5;10;6;12;12;-;56
+"D48   Neopl comp inc/desconh outr localiz e NE";-;1;1;-;1;-;-;-;-;1;-;-;2;2;4;-;3;1;3;9;-;28
+"D50   Anemia p/defic de ferro";-;-;-;-;-;-;1;1;-;-;-;-;-;-;2;-;-;2;1;4;-;11
+"D52   Anemia p/defic de folato";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1
+"D53   Outr anemias nutricionais";-;-;-;1;-;-;-;-;-;-;-;-;2;4;2;1;3;2;5;9;-;29
+"D56   Talassemia";-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1;1;-;-;3
+"D57   Transt falciformes";-;-;-;1;1;2;1;3;1;-;5;5;2;1;3;-;1;1;-;-;-;27
+"D58   Outr anemias hemoliticas hereditarias";-;-;-;-;-;-;-;-;1;1;-;-;-;-;1;-;1;1;1;1;-;7
+"D59   Anemia hemolitica adquir";-;-;-;-;2;-;-;-;1;1;2;-;-;1;3;3;1;1;-;1;-;16
+"D60   Aplasia pura da serie vermelha adquir";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;2;-;3
+"D61   Outr anemias aplasticas";-;-;1;5;1;3;4;3;2;4;2;3;1;7;7;4;9;9;9;22;-;96
+"D62   Anemia aguda pos-hemorragica";-;-;-;-;-;-;1;1;1;1;-;2;3;2;2;1;1;1;-;2;-;18
+"D64   Outr anemias";-;-;1;-;-;-;2;2;-;2;-;3;3;7;7;10;15;14;26;54;-;146
+"D65   Coagulacao intravascular disseminada";-;-;2;2;-;-;2;1;-;-;-;2;2;1;2;2;1;-;1;4;-;22
+"D66   Defic hereditaria do fator VIII";-;-;-;2;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;-;-;4
+"D67   Defic hereditaria do fator IX";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"D68   Outr defeitos da coagulacao";-;1;1;2;-;-;-;1;-;1;3;3;2;8;12;7;8;7;8;11;-;75
+"D69   Purpura e outr afeccoes hemorragicas";-;-;1;-;1;-;-;2;2;2;-;1;1;5;3;1;1;4;2;6;-;32
+"D70   Agranulocitose";-;-;1;-;-;-;-;-;-;-;2;2;-;3;1;-;4;4;4;5;-;26
+"D71   Transt func neutrofilos polimorfonucleares";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"D73   Doenc do baco";-;-;-;-;-;-;-;1;-;2;1;-;1;-;1;2;-;-;1;1;-;10
+"D75   Outr doenc sangue e orgaos hematopoeticos";-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;2;1;2;1;-;-;7
+"D76   Alg doenc q env tec linforr e sist reticuloh";-;-;1;2;-;1;1;-;-;1;-;1;-;1;-;-;2;-;-;-;-;10
+"D80   Imunodefic c/predom defeitos anticorpos";-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"D81   Defic imunitarias combinadas";-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"D83   Imunodeficiencia comum variavel";-;-;-;-;-;-;1;-;-;-;1;-;-;1;-;-;-;-;-;-;-;3
+"D84   Outr imunodeficiencias";-;-;2;2;1;-;-;-;-;1;1;2;1;2;2;4;2;-;1;1;-;22
+"D86   Sarcoidose";-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-;-;-;1;-;3
+"D89   Outr transt q comprom mecanismo imunit NCOP";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1
+"E03   Outr hipotireoidismos";-;-;-;-;-;-;-;-;-;1;1;1;-;-;1;2;2;4;-;17;-;29
+"E04   Outr bocios nao-toxicos";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;2;-;3
+"E05   Tireotoxicose";-;-;-;-;-;-;-;-;-;-;2;2;1;1;-;1;-;2;-;1;-;10
+"E06   Tireoidite";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"E07   Outr transt da tireoide";-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;1;-;-;-;-;-;3
+"E10   Diabetes mellitus insulino-dependente";-;-;-;-;-;-;1;2;6;2;7;5;10;17;19;21;27;24;22;36;1;200
+"E11   Diabetes mellitus nao-insulino-dependemte";-;-;-;-;-;-;1;1;1;-;3;1;6;14;28;38;48;39;48;98;-;326
+"E12   Diabetes mellitus relac c/a desnutr";-;-;-;-;-;-;-;1;-;1;-;1;1;1;4;4;5;7;2;5;-;32
+"E13   Outr tipos espec de diabetes mellitus";-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;3;3;4;2;4;-;19
+"E14   Diabetes mellitus NE";-;-;1;-;3;-;5;5;17;35;33;71;154;199;366;480;555;594;518;897;1;3934
+"E15   Coma hipoglicemico nao-diabetico";-;-;-;-;1;-;-;-;-;-;-;-;1;-;2;-;-;-;1;1;-;6
+"E16   Outr transt da secrecao pancreatica interna";-;-;-;-;-;-;-;-;-;1;-;1;2;3;5;4;5;3;6;11;-;41
+"E21   Hiperparatireoid e out transt gland paratir";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"E23   Hipofuncao e outr transt da hipofise";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"E24   Sindr de Cushing";-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"E25   Transt adrenogenitais";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1
+"E27   Outr transt da gland supra-renal";-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;1;1;-;-;-;-;5
+"E34   Outr transt endocrinos";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"E40   Kwashiorkor";-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;2;-;5
+"E41   Marasmo nutricional";-;-;-;-;-;-;-;1;-;-;1;3;1;2;2;1;4;2;7;19;-;43
+"E43   Desnutric proteico-calorica grave NE";-;-;4;1;-;1;-;-;1;1;2;-;6;6;5;9;13;12;14;42;-;117
+"E44   Desnutric proteico-calorica grau moder leve";-;-;-;-;-;-;-;-;-;-;-;1;-;2;4;2;1;-;5;4;1;20
+"E45   Atraso desenv dev desnutric proteico-caloric";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"E46   Desnutric proteico-calorica NE";-;-;5;1;-;-;4;3;3;8;3;11;11;16;18;25;26;43;42;174;3;396
+"E51   Defic de tiamina";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-;2
+"E52   Defic de niacina";-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;1;1;-;-;-;1;5
+"E54   Defic de acido ascorbico";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"E63   Outr defic nutricionais";-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;1;-;2
+"E64   Sequelas desnutric e outr defic nutricionais";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;2;-;4
+"E66   Obesidade";-;-;-;-;-;-;1;4;9;22;11;21;28;32;33;26;22;11;14;4;-;238
+"E71   Dist metab aminoacidos cad ramif e acid grax";-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"E72   Outr disturbios metabolismo de aminoacidos";1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2
+"E74   Outr disturbios do metabolismo carboidratos";-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;1
+"E75   Disturb metab esfingolip e outr depos lipid";-;-;-;5;1;1;1;-;-;-;1;-;-;1;-;-;-;-;-;1;-;11
+"E76   Disturbios metabolismo do glicosaminoglicano";-;-;1;1;-;1;3;-;-;-;-;-;-;1;-;-;-;-;-;-;-;7
+"E77   Disturbios do metabolismo de glicoproteinas";-;-;1;2;-;-;-;-;1;-;-;-;-;-;-;-;1;-;-;2;-;7
+"E78   Disturbios metab lipoproteinas e out lipidem";-;-;-;-;-;-;-;-;1;-;4;4;9;11;25;26;18;25;28;34;-;185
+"E79   Disturbios metabolismo purina e pirimidina";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;1;1;-;-;4
+"E80   Disturbios metab porfirina e bilirrubina";-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;1
+"E83   Disturbios do metabolismo de minerais";-;-;-;1;-;-;-;1;-;-;2;-;-;3;1;1;2;2;2;3;-;18
+"E84   Fibrose cistica";-;-;2;-;-;3;2;1;1;-;1;1;-;1;-;-;1;1;1;3;-;18
+"E85   Amiloidose";-;-;-;-;-;-;-;-;-;1;-;-;1;1;2;2;4;1;2;2;-;16
+"E86   Deplecao de volume";-;-;1;1;-;-;-;-;-;2;1;1;4;4;7;7;9;16;35;105;-;193
+"E87   Outr transt equil hidroeletr e acido-basic";2;-;1;3;2;2;-;-;1;1;3;-;2;8;10;7;11;12;17;32;-;114
+"E88   Outr disturbios metabolicos";-;1;3;1;-;-;-;-;-;-;-;1;2;1;2;6;9;10;11;19;-;66
+"F01   Demencia vascular";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;3;3;11;15;34;-;67
+"F03   Demencia NE";-;-;-;-;-;-;-;-;-;-;-;-;-;-;5;6;11;22;42;299;-;385
+"F05   Delirium nao induz alcool outr subst psicoat";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;3;12;-;16
+"F06   Outr transt ment lesao disf cereb doenc fis";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1
+"F10   Transt mentais comport dev uso alcool";-;-;-;1;-;-;-;1;10;21;45;91;118;114;100;70;63;30;17;14;2;697
+"F11   Transt mentais e comport dev uso de opiaceos";-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;1
+"F12   Transt mentais comport dev uso canabinoides";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"F14   Transt mentais e comport dev uso da cocaina";-;-;-;-;-;-;3;2;4;2;-;-;1;1;1;-;-;-;-;-;-;14
+"F15   Transt ment comp uso outr estim incl cafeina";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1
+"F16   Transt mentais comport dev uso alucinogenos";-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;1
+"F17   Transt mentais e comport dev uso de fumo";-;-;-;-;-;-;-;-;2;1;6;4;10;10;20;14;17;13;15;14;-;126
+"F19   Transt ment comp mult drog out subst psicoat";-;-;-;-;-;-;6;1;7;2;11;8;6;4;1;-;2;-;-;-;-;48
+"F20   Esquizofrenia";-;-;-;-;-;-;-;1;1;3;1;-;4;9;6;5;3;3;4;5;-;45
+"F23   Transt psicoticos agudos e transitorios";-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;1
+"F28   Outr transt psicoticos nao-organicos";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1
+"F29   Psicose nao-organica NE";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;2
+"F31   Transt afetivo bipolar";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-;2
+"F32   Episodios depressivos";-;-;-;-;-;-;-;-;1;-;-;-;1;-;3;1;-;-;1;4;-;11
+"F33   Transt depressivo recorrente";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;2
+"F40   Transt fobico-ansiosos";-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;1
+"F41   Outr transt ansiosos";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;-;4
+"F42   Transt obsessivo-compulsivo";-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;1;-;-;-;-;-;3
+"F43   Reacoes ao stress grave e transt adaptacao";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1
+"F44   Transt dissociativos";-;-;-;-;-;-;-;-;-;-;-;-;-;2;1;-;-;-;1;-;-;4
+"F50   Transt da alimentacao";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;2
+"F51   Transt nao-organicos sono dev fat emocionais";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1
+"F60   Transt especificos da personalidade";-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;1
+"F72   Retardo mental grave";-;-;-;-;-;-;1;-;-;-;-;-;1;1;-;-;-;-;-;-;-;3
+"F73   Retardo mental profundo";-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;1
+"F79   Retardo mental NE";-;-;-;-;-;-;-;1;-;-;1;1;-;-;1;-;1;-;-;-;-;5
+"F99   Transt mental NE em outr parte";-;-;-;-;-;-;-;-;-;-;1;1;-;1;3;1;1;-;-;2;-;10
+"G00   Meningite bacter NCOP";-;1;12;6;-;5;5;6;10;6;9;13;16;18;21;14;9;6;8;9;1;175
+"G03   Meningite dev outr causas e a causas NE";-;1;5;1;2;-;1;4;4;6;1;6;7;4;3;2;1;1;2;3;1;55
+"G04   Encefalite mielite e encefalomielite";-;-;1;5;5;-;3;2;4;5;1;2;4;3;4;12;2;3;1;3;-;60
+"G06   Abscesso granuloma intracran intra-raquid";-;-;-;-;-;-;1;3;-;3;-;2;3;2;5;5;3;3;3;1;-;34
+"G08   Flebite tromboflebite intracran intra-raquid";-;-;-;-;1;-;-;-;-;-;-;-;1;-;-;-;1;1;-;-;-;4
+"G09   Sequelas doenc inflam sist nerv centr";-;-;-;-;-;1;1;-;1;1;1;-;-;4;4;-;1;3;2;2;-;21
+"G10   Doenc de Huntington";-;-;-;-;-;1;-;-;-;-;-;1;1;3;1;2;-;1;1;-;-;11
+"G11   Ataxia hereditaria";-;-;-;-;-;-;-;-;1;1;1;2;3;1;-;-;1;1;2;2;-;15
+"G12   Atrofia muscular espinal e sindr correlatas";-;-;1;1;-;1;2;-;3;3;5;12;11;18;14;31;23;20;14;13;-;172
+"G20   Doenc de Parkinson";-;-;-;-;-;-;-;-;-;-;-;-;1;5;12;12;30;66;107;256;-;489
+"G21   Parkinsonismo secund";-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;1;-;1;-;1;-;5
+"G23   Outr doenc degenerativas dos ganglios base";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;2
+"G25   Outr doenc extrapiramidais transt movimentos";-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;1
+"G30   Doenc de Alzheimer";-;-;-;-;-;-;-;-;-;-;-;1;-;-;4;28;59;114;281;1201;-;1688
+"G31   Outr doenc degenerativas sist nervoso NCOP";-;-;-;1;-;3;-;-;-;-;2;2;5;5;4;5;9;12;16;55;-;119
+"G35   Esclerose mult";-;-;-;-;-;-;-;-;-;1;1;4;6;3;6;2;2;1;1;5;-;32
+"G36   Outr desmielinizacoes disseminadas agudas";-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"G37   Outr doenc desmielinizantes sist nerv centr";-;-;-;-;-;1;-;-;-;-;2;-;-;2;-;2;-;1;-;-;-;8
+"G40   Epilepsia";-;-;2;10;4;7;11;10;17;11;14;26;24;24;26;12;15;12;11;11;-;247
+"G41   Estado de mal epileptico";-;-;-;-;-;1;-;-;1;3;2;4;2;-;3;3;1;3;2;6;-;31
+"G45   Acid vasc cerebr isquemicos trans sindr corr";-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;1;1;2;6;-;13
+"G47   Disturbios do sono";-;-;-;-;-;-;-;-;-;-;1;1;-;1;-;1;-;-;-;1;-;5
+"G58   Outr mononeuropatias";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"G60   Neuropatia hereditaria e idiopatica";-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;1;1;-;-;2;-;6
+"G61   Polineuropatia inflam";-;-;-;-;-;-;-;-;-;5;-;1;2;1;2;2;2;-;6;8;-;29
+"G62   Outr polineuropatias";-;-;1;1;1;-;1;1;1;2;-;1;2;2;5;4;-;5;3;5;-;35
+"G70   Miastenia gravis outr transt neuromusculares";-;-;-;-;-;-;-;-;1;-;4;-;2;2;-;3;-;3;2;4;-;21
+"G71   Transt prim dos musculos";-;-;3;1;-;2;15;9;5;3;3;3;2;6;2;1;-;-;1;-;-;56
+"G72   Outr miopatias";-;-;-;-;-;1;-;-;-;-;1;-;-;-;1;-;1;-;1;-;-;5
+"G80   Paralisia cerebral";-;-;2;12;11;22;28;14;19;5;8;5;3;4;5;2;3;-;1;1;-;145
+"G82   Paraplegia e tetraplegia";-;-;-;-;-;-;-;2;2;1;-;1;3;2;3;3;3;3;2;-;-;25
+"G83   Outr sindr paraliticas";-;-;-;-;-;1;-;-;-;-;-;-;1;1;-;-;-;1;1;-;-;5
+"G90   Transt do sist nervoso autonomo";-;-;-;-;-;-;-;-;3;1;-;-;1;2;1;-;1;2;-;1;-;12
+"G91   Hidrocefalia";-;-;13;8;2;3;3;3;3;2;1;4;2;4;6;4;9;6;5;7;-;85
+"G92   Encefalopatia toxica";-;-;-;-;-;-;-;-;-;-;-;1;1;2;2;-;1;-;1;1;-;9
+"G93   Outr transt do encefalo";-;-;11;21;11;15;10;9;11;21;20;22;18;25;28;28;28;25;24;42;-;369
+"G95   Outr doenc da medula espinal";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;3;2;2;-;10
+"G96   Outr transt do sist nervoso central";-;-;1;-;1;-;-;-;-;1;1;-;2;-;-;3;-;-;-;3;-;12
+"G98   Outr transt do sist nervoso NCOP";-;-;-;-;-;-;-;-;-;-;-;-;-;3;-;1;-;1;1;3;-;9
+"H44   Transt do globo ocular";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"H66   Otite media supurativa e as NE";-;-;-;2;-;-;-;-;-;1;-;1;-;1;1;-;1;-;-;1;-;8
+"H70   Mastoidite e afeccoes correlatas";-;-;-;-;-;-;-;-;-;1;1;1;-;1;-;-;1;-;1;-;-;6
+"H83   Outr transt do ouvido interno";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"I00   Febre reumatica s/mencao de compr do coracao";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"I01   Febre reumatica c/compr do coracao";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;2
+"I05   Doenc reumaticas da valva mitral";-;-;-;-;-;-;1;2;2;-;1;5;8;11;13;9;7;11;11;7;-;88
+"I06   Doenc reumaticas da valva aortica";-;-;-;-;-;-;-;1;-;-;-;2;-;-;-;2;4;1;5;6;-;21
+"I07   Doenc reumaticas da valva tricuspide";-;-;-;-;-;-;-;-;1;-;-;1;1;1;1;-;-;1;2;1;-;9
+"I08   Doenc de mult valvas";-;-;-;-;-;-;-;1;1;-;-;4;2;3;11;5;1;7;4;5;-;44
+"I09   Outr doenc reumaticas do coracao";-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;2;-;-;-;4
+"I10   Hipertensao essencial";-;-;-;-;-;-;-;2;2;7;8;29;46;104;121;147;147;169;168;441;-;1391
+"I11   Doenc cardiaca hipertensiva";-;-;-;-;-;-;-;2;6;8;17;33;58;85;141;152;219;193;221;423;1;1559
+"I12   Doenc renal hipertensiva";-;-;-;-;1;-;-;1;3;4;7;9;22;32;38;55;54;57;65;116;-;464
+"I13   Doenc cardiaca e renal hipertensiva";-;-;-;-;-;-;-;1;1;1;3;5;2;14;18;27;20;24;33;73;-;222
+"I20   Angina pectoris";-;-;-;-;-;-;-;-;1;-;1;-;3;5;2;6;12;8;5;13;-;56
+"I21   Infarto agudo do miocardio";-;-;-;-;1;5;59;63;75;145;236;430;736;1089;1518;1691;1655;1529;1420;2226;44;12922
+"I22   Infarto do miocardio recorrente";-;-;-;-;-;-;-;-;1;-;-;-;1;3;4;2;2;3;3;3;-;22
+"I24   Outr doenc isquemicas agudas do coracao";-;-;-;-;-;-;-;1;2;3;-;5;10;22;42;75;70;73;73;128;-;504
+"I25   Doenc isquemica cronica do coracao";-;-;-;-;-;-;8;6;8;18;32;64;113;188;316;400;414;532;467;889;6;3461
+"I26   Embolia pulmonar";-;-;-;1;-;3;7;14;16;29;36;51;78;79;93;108;119;112;126;249;4;1125
+"I27   Outr form de doenc cardiaca pulmonar";-;-;4;-;-;1;2;1;-;5;2;2;2;4;5;14;16;17;8;39;-;122
+"I28   Outr doenc dos vasos pulmonares";-;-;-;-;-;-;-;2;-;-;1;-;-;2;1;1;3;2;2;2;-;16
+"I30   Pericardite aguda";-;-;-;-;-;-;-;-;-;2;1;1;-;2;2;2;1;1;1;2;-;15
+"I31   Outr doenc do pericardio";1;-;1;-;-;1;-;1;1;4;1;4;7;5;6;5;6;6;9;10;1;69
+"I33   Endocardite aguda e subaguda";-;-;1;-;1;-;2;2;4;4;3;7;18;10;21;18;22;14;17;14;-;158
+"I34   Transt nao-reumaticos da valva mitral";-;-;-;-;1;-;1;-;-;4;1;3;8;9;10;11;10;18;16;22;-;114
+"I35   Transt nao-reumaticos da valva aortica";-;-;-;-;-;2;1;1;2;2;3;8;12;23;22;35;32;35;53;96;-;327
+"I36   Transt nao-reumaticos da valva tricuspide";-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;-;-;-;-;-;3
+"I37   Transt da valva pulmonar";-;-;-;-;-;-;-;-;1;-;1;-;-;1;1;-;-;-;1;-;-;5
+"I38   Endocardite de valva NE";-;-;-;-;-;-;1;2;-;5;3;1;7;11;11;9;11;7;10;18;-;96
+"I40   Miocardite aguda";-;-;3;-;-;1;3;-;1;-;1;-;2;4;2;-;3;-;1;2;-;23
+"I42   Cardiomiopatias";1;-;9;6;1;4;17;21;32;60;91;128;186;254;279;238;250;269;266;495;13;2620
+"I44   Bloqueio atrioventricular e do ramo esquerdo";-;-;-;-;-;-;-;-;-;-;1;-;1;-;1;3;10;11;15;43;-;85
+"I45   Outr transt de conducao";-;-;-;-;-;1;-;-;-;-;-;-;2;-;-;-;-;1;-;1;-;5
+"I46   Parada cardiaca";-;1;-;-;-;-;1;1;-;4;1;3;4;4;9;9;7;10;13;32;-;99
+"I47   Taquicardia paroxistica";-;-;-;-;-;-;-;-;-;1;1;1;3;1;1;2;3;9;9;7;-;38
+"I48   Flutter e fibrilacao atrial";-;-;-;-;-;-;-;-;-;-;-;2;7;3;14;11;36;49;65;132;-;319
+"I49   Outr arritmias cardiacas";-;-;2;1;-;1;5;7;3;5;6;9;12;17;32;36;43;70;74;195;1;519
+"I50   Insuf cardiaca";-;-;2;-;-;1;1;8;13;13;25;35;64;99;156;235;282;332;396;1060;3;2725
+"I51   Complic cardiopatias doenc cardiacas mal def";-;-;3;4;-;2;6;6;12;12;13;29;27;28;46;43;42;49;37;95;3;457
+"I60   Hemorragia subaracnoide";-;-;-;1;-;2;5;9;13;13;32;36;66;65;59;57;47;31;26;47;-;509
+"I61   Hemorragia intracerebral";-;-;1;3;2;6;9;8;21;30;64;99;166;203;246;240;226;219;183;314;6;2046
+"I62   Outr hemorragias intracranianas nao-traum";-;-;3;3;-;-;-;-;2;4;4;8;7;12;6;17;15;24;19;65;1;190
+"I63   Infarto cerebral";-;-;-;-;1;1;1;3;2;1;7;17;25;55;96;137;162;178;208;390;-;1284
+"I64   Acid vasc cerebr NE como hemorrag isquemico";-;-;-;-;1;1;1;2;8;11;13;30;67;155;209;325;409;491;565;1128;1;3417
+"I67   Outr doenc cerebrovasculares";-;-;-;2;2;2;3;4;4;4;12;20;47;77;113;138;192;212;204;383;-;1419
+"I69   Sequelas de doenc cerebrovasculares";-;-;-;-;-;2;1;2;2;-;4;15;23;45;115;151;226;313;377;771;1;2048
+"I70   Aterosclerose";-;-;-;-;-;-;-;1;1;-;-;-;2;8;11;9;24;32;29;78;-;195
+"I71   Aneurisma e disseccao da aorta";-;-;-;-;-;1;7;6;7;11;31;47;55;83;154;193;249;231;224;294;-;1593
+"I72   Outr aneurismas";-;-;-;-;-;-;1;1;2;1;2;1;2;5;9;6;5;3;10;12;-;60
+"I73   Outr doenc vasculares perifericas";-;-;-;-;-;-;-;-;-;-;2;1;2;7;13;21;24;36;25;58;-;189
+"I74   Embolia e trombose arteriais";-;-;-;-;-;-;-;-;1;2;4;3;4;7;13;22;27;24;29;73;-;209
+"I77   Outr afeccoes das arterias e arteriolas";-;-;-;-;-;-;-;1;-;2;1;1;1;6;3;8;14;13;16;42;-;108
+"I80   Flebite e tromboflebite";-;-;1;-;-;-;1;-;3;5;4;5;11;5;11;18;18;22;19;50;1;174
+"I81   Trombose da veia porta";-;-;-;-;-;-;-;-;-;-;1;-;-;-;2;2;1;-;1;4;-;11
+"I82   Outr embolia e trombose venosas";-;-;1;-;-;-;-;-;-;4;-;1;1;-;1;2;2;1;-;5;-;18
+"I83   Varizes dos membros infer";-;-;-;-;-;-;-;-;-;1;-;1;2;5;2;9;4;4;6;8;-;42
+"I84   Hemorroidas";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;2;2;-;5
+"I85   Varizes esofagianas";-;-;-;-;-;-;-;-;-;1;3;3;6;6;10;15;8;5;7;11;-;75
+"I86   Varizes de outr localiz";-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;2;3;-;-;1;-;8
+"I87   Outr transt das veias";-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;3;3;2;2;4;-;16
+"I88   Linfadenite inespecifica";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"I89   Outr transt nao-infecc vasos linf gangl linf";-;-;1;-;-;-;-;-;-;-;-;-;-;1;1;1;3;2;-;2;-;11
+"I95   Hipotensao";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;2;-;4
+"I99   Outr transt do aparelho circulatorio e os NE";-;-;-;-;-;-;-;-;-;1;-;-;-;2;1;2;4;4;1;6;-;21
+"J01   Sinusite aguda";-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;1
+"J02   Faringite aguda";-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-;-;-;-;-;2
+"J04   Laringite e traqueite agudas";-;-;2;-;1;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1;-;5
+"J05   Laringite obstrutiva aguda e epiglotite";-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"J06   Infecc agudas vias aereas super loc mult NE";-;-;1;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;1;2;-;5
+"J09   Influenza A (H1N1)";-;-;-;-;-;1;-;1;1;-;-;-;-;-;1;1;-;-;-;-;-;5
+"J10   Influenza dev outro virus influenza ident";-;-;-;-;-;-;-;-;-;-;-;4;2;2;1;-;-;-;-;1;-;10
+"J11   Influenza dev virus nao identificado";-;-;1;2;-;-;1;-;-;1;2;-;1;3;2;2;2;1;2;5;-;25
+"J12   Pneumonia viral NCOP";-;-;1;1;-;-;1;1;-;-;-;-;-;1;1;-;1;3;-;5;-;15
+"J13   Pneumonia dev Streptococcus pneumoniae";-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;1;-;1;4;-;8
+"J15   Pneumonia bacter NCOP";-;-;5;3;1;-;3;6;4;7;8;16;24;37;39;50;58;67;102;316;-;746
+"J16   Pneumonia dev out microorg infecc espec NCOP";-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;1;-;1;2;-;6
+"J18   Pneumonia p/microorg NE";-;16;110;48;15;13;37;59;85;114;171;232;342;504;646;689;853;1029;1318;4025;38;10344
+"J20   Bronquite aguda";-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"J21   Bronquiolite aguda";-;1;24;5;-;1;-;-;1;-;-;1;1;2;1;3;5;1;3;2;-;51
+"J22   Infecc agudas NE das vias aereas infer";-;-;1;-;-;-;-;-;-;-;1;-;-;-;1;1;-;1;1;1;-;7
+"J32   Sinusite cronica";-;-;-;-;1;1;1;-;-;-;-;1;-;-;-;-;1;1;-;2;-;8
+"J35   Doenc cronicas das amigdalas e das adenoides";-;-;-;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2
+"J36   Abscesso periamigdaliano";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1
+"J38   Doenc das cordas vocais e da laringe NCOP";-;-;1;1;-;-;-;1;-;-;-;-;-;2;-;1;-;4;-;-;-;10
+"J39   Outr doenc das vias aereas super";-;-;1;-;-;-;1;2;-;1;1;-;1;2;1;1;-;-;1;-;-;12
+"J40   Bronquite NE como aguda ou cronica";-;-;-;-;1;-;1;-;3;-;-;2;-;1;4;3;3;3;4;23;-;48
+"J41   Bronquite cronica simples e a mucopurulenta";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;1;-;-;3
+"J42   Bronquite cronica NE";-;-;-;-;1;1;-;2;-;-;1;-;2;2;3;1;3;3;6;18;-;43
+"J43   Enfisema";-;-;1;-;-;-;1;1;1;1;2;4;12;17;33;36;55;86;101;229;1;581
+"J44   Outr doenc pulmonares obstrutivas cronicas";-;-;-;1;-;1;6;-;1;3;11;13;41;153;235;353;530;676;863;1805;1;4693
+"J45   Asma";-;-;1;2;2;3;-;1;2;4;4;6;4;8;4;9;7;11;9;19;-;96
+"J46   Estado de mal asmatico";-;-;1;5;1;1;-;-;1;2;1;1;1;1;1;1;4;1;2;2;-;26
+"J47   Bronquectasia";-;-;-;-;-;-;2;-;1;3;3;1;1;3;-;-;2;3;1;9;-;29
+"J60   Pneumoconiose dos mineiros de carvao";-;-;-;-;-;-;-;-;-;-;-;1;-;2;-;1;-;-;-;3;-;7
+"J61   Pneumoconiose dev amianto outr fibr minerais";-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;2;-;4
+"J62   Pneumoconiose dev poeira que cont silica";-;-;-;-;-;-;-;-;1;-;1;1;1;3;1;2;2;3;1;3;-;19
+"J63   Pneumoconiose dev outr poeiras inorganicas";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1
+"J64   Pneumoconiose NE";-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;1;2;6;4;8;-;24
+"J65   Pneumoconiose assoc c/tuberc";-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-;-;-;-;2
+"J67   Pneumonite hipersensibilid dev poeiras org";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;2;4;3;-;12
+"J68   Afecc resp dev inal prod quim gas fumac vap";-;-;1;1;-;-;-;-;1;-;-;1;1;-;1;4;5;1;1;2;-;19
+"J69   Pneumonite dev solidos e liquidos";-;-;14;3;3;-;5;4;3;6;11;12;23;28;37;28;45;63;84;275;1;645
+"J70   Afeccoes respirat dev outr agentes externos";-;-;-;-;-;-;1;1;-;2;-;-;1;-;-;-;-;-;1;1;-;7
+"J80   Sindr do desconforto respirat do adulto";-;-;2;2;-;-;1;-;1;3;2;3;3;3;-;6;1;-;2;3;-;32
+"J81   Edema pulmonar NE de outr form";2;-;4;3;2;2;26;24;19;31;26;29;34;36;34;32;34;27;29;55;5;454
+"J82   Eosinofilia pulmonar NCOP";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1
+"J84   Outr doenc pulmonares intersticiais";-;-;3;-;2;1;1;-;2;1;3;6;10;14;29;41;46;55;67;115;-;396
+"J85   Abscesso do pulmao e do mediastino";-;-;-;-;-;1;-;1;2;2;5;5;8;11;7;3;4;7;4;13;-;73
+"J86   Piotorax";-;-;2;3;-;-;-;1;2;8;7;6;17;13;16;17;17;13;5;17;1;145
+"J90   Derrame pleural NCOP";-;-;-;1;-;-;1;-;-;2;1;4;4;6;14;10;11;6;12;39;-;111
+"J92   Placas pleurais";-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-;-;-;-;-;-;2
+"J93   Pneumotorax";-;-;2;-;-;-;-;-;-;-;-;3;1;1;2;-;-;2;3;4;-;18
+"J94   Outr afeccoes pleurais";-;-;-;-;-;-;1;1;-;1;-;-;1;1;1;1;-;2;1;3;-;13
+"J96   Insuf respirat NCOP";-;-;7;3;2;2;5;9;3;5;4;7;5;18;25;20;30;44;38;114;3;344
+"J98   Outr transt respirat";-;-;2;2;3;1;4;2;11;11;16;13;19;27;35;39;47;43;50;162;2;489
+"K12   Estomatite e lesoes correlatas";-;-;-;-;-;-;-;1;-;1;-;-;1;1;-;-;-;2;1;-;-;7
+"K13   Outr doenc do labio e da mucosa oral";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1
+"K20   Esofagite";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;2;1;-;1;-;6
+"K21   Doenc de refluxo gastroesofagico";-;-;7;-;-;1;1;-;-;-;-;-;1;-;1;3;-;2;2;8;-;26
+"K22   Outr doenc do esofago";-;-;-;-;-;-;-;-;2;1;1;3;3;9;8;5;5;4;4;17;-;62
+"K25   Ulcera gastrica";-;-;1;-;1;-;-;1;-;1;6;10;16;20;26;31;27;25;34;54;-;253
+"K26   Ulcera duodenal";-;-;-;-;-;-;-;-;1;2;5;1;6;8;18;17;25;19;19;25;-;146
+"K27   Ulcera peptica de localiz NE";-;-;-;-;-;-;-;-;-;-;2;1;6;8;11;16;6;12;13;13;-;88
+"K28   Ulcera gastrojejunal";-;-;-;-;-;-;-;-;1;-;-;-;1;1;2;1;2;1;-;2;-;11
+"K29   Gastrite e duodenite";-;-;-;-;-;-;-;-;1;2;-;3;5;4;8;6;9;7;6;17;-;68
+"K30   Dispepsia";-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;-;1;-;1;-;-;5
+"K31   Outr doenc do estomago e do duodeno";-;-;-;1;-;-;-;2;-;-;-;2;1;1;2;4;8;4;4;8;-;37
+"K35   Apendicite aguda";-;-;-;3;1;2;7;3;3;1;3;5;6;4;11;4;11;7;13;13;1;98
+"K37   Apendicite SOE";-;-;-;1;1;2;-;-;1;-;1;1;2;2;-;2;-;2;2;4;-;21
+"K38   Outr doenc do apendice";-;-;-;-;-;-;1;-;-;-;1;-;-;-;-;-;1;-;-;5;-;8
+"K40   Hernia inguinal";-;-;2;-;-;-;-;-;-;-;-;1;3;3;5;5;16;23;8;48;-;114
+"K41   Hernia femoral";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;2;-;4
+"K42   Hernia umbilical";-;-;-;-;-;-;-;-;-;-;1;-;1;1;5;2;1;4;-;3;-;18
+"K43   Hernia ventral";-;-;-;-;-;-;-;-;1;-;1;-;2;-;4;3;2;5;4;3;-;25
+"K44   Hernia diafragmatica";-;-;-;-;-;-;-;-;-;-;-;-;1;-;3;-;4;1;-;8;-;17
+"K45   Outr hernias abdominais";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;2
+"K46   Hernia abdominal NE";-;-;-;-;-;-;1;-;1;-;-;1;2;4;4;4;5;6;6;15;-;49
+"K50   Doenc de Crohn";-;-;-;-;-;-;-;-;-;3;2;2;5;1;5;6;1;2;2;1;-;30
+"K51   Colite ulcerativa";-;-;-;-;-;1;1;1;1;1;-;2;3;5;1;5;3;5;1;4;-;34
+"K52   Outr gastroenterites e colites nao-infecc";-;-;2;-;-;1;1;1;-;-;1;1;-;2;2;2;5;5;4;6;-;33
+"K55   Transt vasculares do intestino";-;-;1;-;-;-;1;3;-;6;4;2;19;18;47;65;65;68;95;123;-;517
+"K56   Ileo paralitico e obstr intestinal s/hernia";-;-;5;1;-;1;-;1;-;2;4;8;5;12;26;21;43;52;63;139;-;383
+"K57   Doenc diverticular do intestino";-;-;-;-;1;-;1;-;-;3;2;-;6;10;11;26;26;26;40;73;-;225
+"K58   Sindr do colon irritavel";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;2
+"K59   Outr transt funcionais do intestino";-;-;1;-;-;-;1;1;-;-;1;-;3;4;5;-;7;5;13;11;-;52
+"K60   Fissura e fistula das regioes anal e retal";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1
+"K61   Abscesso das regioes anal e retal";-;-;-;-;-;-;-;-;-;-;-;2;1;1;2;3;-;1;1;6;-;17
+"K62   Outr doenc do reto e do anus";-;-;-;-;-;-;-;-;-;-;-;-;-;1;3;1;2;2;-;2;-;11
+"K63   Outr doenc do intestino";-;-;2;-;-;-;-;3;1;-;4;11;7;9;11;15;14;13;11;27;1;129
+"K65   Peritonite";-;-;4;3;1;1;1;5;-;6;12;10;15;19;34;33;38;28;34;46;-;290
+"K66   Outr transt do peritonio";-;-;-;-;-;-;1;-;-;-;-;2;-;1;3;2;3;2;-;5;-;19
+"K70   Doenc alcoolica do figado";-;-;-;-;-;-;1;4;21;52;114;226;303;375;337;282;210;92;76;47;4;2144
+"K71   Doenc hepatica toxica";-;-;-;-;1;-;2;1;1;1;-;1;1;2;3;1;-;2;-;4;-;20
+"K72   Insuf hepatica NCOP";-;-;1;1;-;1;-;-;7;10;21;30;41;53;54;55;42;34;28;31;2;411
+"K73   Hepatite cronica NCOP";-;-;-;-;-;-;-;-;-;2;1;1;4;10;4;4;1;8;2;2;-;39
+"K74   Fibrose e cirrose hepaticas";-;-;-;-;-;1;1;1;14;30;66;130;231;319;300;285;227;164;115;104;4;1992
+"K75   Outr doenc inflam do figado";-;-;1;-;-;-;1;-;3;5;4;5;6;11;6;7;10;7;10;4;-;80
+"K76   Outr doenc do figado";-;-;1;1;-;-;1;1;3;18;23;57;68;78;103;82;62;34;35;37;5;609
+"K80   Colelitiase";-;-;-;-;-;-;-;3;-;-;2;4;4;8;15;17;25;22;31;49;-;180
+"K81   Colecistite";-;-;-;-;-;-;-;1;-;1;3;-;6;4;11;19;18;28;41;65;-;197
+"K82   Outr doenc da vesicula biliar";-;-;-;-;-;-;-;-;-;-;-;1;1;1;3;2;5;4;9;5;1;32
+"K83   Outr doenc das vias biliares";-;-;-;-;-;-;-;-;3;2;5;5;6;7;14;12;22;16;19;43;-;154
+"K85   Pancreatite aguda";-;-;-;-;-;-;2;11;14;35;56;65;63;76;74;62;62;51;44;76;5;696
+"K86   Outr doenc do pancreas";-;-;1;-;-;-;1;1;-;6;9;9;18;10;13;6;12;3;4;7;3;103
+"K90   Ma-absorcao intestinal";-;-;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;2;1;1;-;6
+"K92   Outr doenc do aparelho digestivo";-;-;-;-;-;-;2;1;-;5;12;20;17;35;41;50;64;64;69;176;1;557
+"L01   Impetigo";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"L02   Abscesso cutaneo furunculo e antraz";-;-;-;-;-;-;-;1;-;-;1;1;2;5;3;4;6;2;1;4;-;30
+"L03   Celulite";-;-;-;-;1;1;-;-;-;1;3;1;4;10;13;10;13;15;11;23;-;106
+"L04   Linfadenite aguda";-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"L08   Outr infecc localiz pele e tec subcutaneo";-;-;1;-;-;-;-;-;-;-;2;4;1;4;6;11;13;6;11;25;-;84
+"L10   Penfigo";-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;1;-;4;-;7
+"L12   Penfigoide";-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;1;-;-;2
+"L13   Outr afeccoes bolhosas";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;2
+"L23   Dermatites alergicas de contato";-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;1
+"L26   Dermatite esfoliativa";-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;-;-;2
+"L27   Dermatite dev subst de uso interno";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;2
+"L40   Psoriase";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;3;-;2;2;-;8
+"L51   Eritema polimorfo";-;-;-;1;-;1;-;-;-;-;1;1;-;1;2;-;-;1;2;1;-;11
+"L53   Outr afeccoes eritematosas";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"L88   Piodermite gangrenosa";-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;1;-;-;2
+"L89   Ulcera de decubito";-;-;-;-;-;-;1;1;4;2;2;5;2;7;2;10;6;28;18;54;-;142
+"L93   Lupus eritematoso";-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;2
+"L97   Ulcera dos membros infer NCOP";-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;4;2;1;2;5;-;16
+"L98   Outr afeccoes da pele e tec subcutaneo NCOP";-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;3;2;3;5;10;-;25
+"M00   Artrite piogenica";-;-;1;-;-;1;1;1;-;-;-;1;2;3;3;3;5;4;3;8;-;36
+"M05   Artrite reumatoide soro-positiva";-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;1;-;-;-;-;4
+"M06   Outr artrites reumatoides";-;-;-;-;-;-;-;-;1;1;-;-;1;5;2;5;8;6;5;4;-;38
+"M10   Gota";-;-;-;-;-;-;-;-;-;-;-;1;-;2;2;1;1;2;1;4;-;14
+"M13   Outr artrites";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;1;-;-;3;-;7
+"M16   Coxartrose";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;2;1;4;-;9
+"M17   Gonartrose";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;1;1;-;4
+"M19   Outr artroses";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;3;-;1;3;-;8
+"M25   Outr transt articulares NCOP";-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;2;-;1;1;8;-;15
+"M30   Poliarterite nodosa e afeccoes correlatas";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1
+"M31   Outr vasculopatias necrotizantes";-;-;-;-;-;-;-;-;-;-;1;1;2;3;1;4;4;2;7;16;-;41
+"M32   Lupus eritematoso disseminado";-;-;-;-;-;-;1;1;2;1;-;1;1;1;1;4;1;-;1;-;-;15
+"M33   Dermatopoliomiosite";-;-;-;-;-;-;-;-;-;1;1;-;-;1;-;-;-;-;2;-;-;5
+"M34   Esclerose sistemica";-;-;-;-;-;-;-;-;-;-;-;1;-;1;2;3;2;3;-;1;-;13
+"M35   Outr afeccoes sistemicas do tec conjuntivo";-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;-;1;3;-;-;7
+"M41   Escoliose";-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"M43   Outr dorsopatias deformantes";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;2
+"M45   Espondilite ancilosante";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;-;1;-;-;-;4
+"M46   Outr espondilopatias inflam";-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;2;4;4;3;3;-;18
+"M47   Espondilose";-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;1;-;4;2;3;-;12
+"M48   Outr espondilopatias";-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;2;2;3;-;9
+"M50   Transt dos discos cervicais";-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;2;-;1;-;-;5
+"M51   Outr transt de discos intervertebrais";-;-;-;-;-;-;-;-;-;1;-;-;-;2;3;-;2;-;1;1;-;10
+"M54   Dorsalgia";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1
+"M60   Miosite";-;-;-;-;1;1;-;-;-;-;-;2;-;2;1;-;1;-;1;2;-;11
+"M61   Calcificacao e ossificacao do musculo";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1
+"M62   Outr transt musculares";-;-;-;-;-;-;-;-;1;2;2;1;2;5;4;10;13;9;12;35;-;96
+"M72   Transt fibroblasticos";-;-;-;-;-;-;-;-;-;1;1;-;1;2;3;2;5;1;-;1;-;17
+"M80   Osteoporose c/frat patologica";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;8;-;11
+"M81   Osteoporose s/frat patologica";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;4;-;5
+"M84   Transt da continuidade do osso";-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;1;3;1;4;11;-;22
+"M86   Osteomielite";-;-;-;-;-;-;-;-;-;-;2;-;3;4;7;10;7;6;8;13;-;60
+"M88   Doenc de Paget do osso";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1
+"M89   Outr transt osseos";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;1;-;3
+"M91   Osteocondrose juvenil do quadril e da pelve";-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;1
+"M93   Outr osteocondropatias";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1
+"N00   Sindr nefritica aguda";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;2
+"N01   Sindr nefritica rapidamente progressiva";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"N02   Hematuria recidivante e persistente";-;-;-;-;-;-;1;-;-;-;-;1;1;-;-;-;-;-;1;2;-;6
+"N03   Sindr nefritica cronica";-;-;-;-;-;-;-;-;-;-;-;2;-;2;5;8;2;6;10;20;-;55
+"N04   Sindr nefrotica";-;-;-;1;-;-;-;-;-;-;-;-;-;1;2;-;1;-;2;1;-;8
+"N05   Sindr nefritica NE";-;-;-;1;-;-;-;1;-;1;-;1;-;1;1;1;-;-;-;1;-;8
+"N07   Nefropatia hereditaria NCOP";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1
+"N10   Nefrite tubulo-intersticial aguda";-;-;-;-;1;-;1;1;-;-;4;5;6;1;6;8;9;10;6;35;-;93
+"N11   Nefrite tubulo-intersticial cronica";-;-;-;-;-;-;-;-;-;-;1;-;1;4;1;5;3;2;8;14;-;39
+"N12   Nefrite tubulo-intersticial NE aguda cronica";-;-;2;1;-;1;-;-;-;1;-;2;-;7;8;5;9;24;28;67;-;155
+"N13   Uropatia obstrutiva e p/refluxo";-;-;-;-;-;-;-;-;-;1;-;-;-;1;2;2;-;3;2;6;-;17
+"N14   Afec tubul tubulo-interst ind drog met pesad";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1
+"N15   Outr doenc renais tubulo-intersticiais";-;-;-;-;-;-;-;-;-;-;1;1;1;1;2;2;2;-;1;4;-;15
+"N17   Insuf renal aguda";-;-;4;-;1;-;2;3;2;4;6;4;3;18;11;45;44;46;65;137;-;395
+"N18   Insuf renal cronica";-;-;-;1;-;1;-;1;6;6;6;12;23;40;44;76;76;87;91;268;-;738
+"N19   Insuf renal NE";-;-;2;2;-;-;-;-;1;5;4;6;6;9;25;26;34;32;39;157;-;348
+"N20   Calculose do rim e do ureter";-;-;-;-;-;-;-;-;-;1;-;-;4;4;5;3;5;6;5;11;-;44
+"N21   Calculose do trato urinario infer";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;3;-;5
+"N26   Rim contraido NE";-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;3;-;4
+"N28   Outr transt do rim e do ureter NCOP";-;-;-;-;-;-;1;-;2;2;4;-;1;1;8;10;8;6;6;7;-;56
+"N30   Cistite";-;-;-;-;-;-;-;-;-;-;-;-;1;3;-;4;5;7;11;23;-;54
+"N31   Disfuncoes neuromusculares da bexiga NCOP";-;-;-;-;-;-;-;-;-;-;1;1;1;1;-;1;1;2;1;2;-;11
+"N32   Outr transt da bexiga";-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;3;3;1;6;-;15
+"N34   Uretrite e sindr uretral";-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;1;-;-;1;-;-;4
+"N35   Estenose da uretra";-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;2;-;-;1;6;-;10
+"N39   Outr transt do trato urinario";-;-;4;3;-;3;2;1;5;5;9;21;19;42;52;76;127;158;232;777;-;1536
+"N40   Hiperplasia da prostata";-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;7;10;17;25;87;-;149
+"N41   Doenc inflam da prostata";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;-;2;4;-;9
+"N42   Outr afeccoes da prostata";-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;3;4;-;8
+"N43   Hidrocele e espermatocele";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-;2
+"N45   Orquite e epididimite";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;-;3
+"N48   Outr transt do penis";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;2;-;-;-;-;-;3
+"N49   Transt inflam orgaos genitais masc NCOP";-;-;-;-;-;-;-;-;1;1;-;2;1;8;4;6;9;5;6;5;-;48
+"N50   Outr transt dos orgaos genitais masc";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;2;-;3
+"P00   Fet rec-nasc afet afec mat n obr rel grav at";160;50;26;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;236
+"P01   Fet rec-nasc afet complic maternas gravidez";197;34;17;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;248
+"P02   Fet rec-nasc afet compl plac cord umb membr";98;22;21;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;141
+"P03   Fet rec-nasc afet out compl trab parto parto";41;8;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;50
+"P04   Fet rec-nasc infl af noc trans plac leit mat";4;3;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;8
+"P05   Crescimento fetal retard e desnutric fetal";10;3;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;14
+"P07   Transt rel gest curt dur peso baix nasc NCOP";138;5;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;147
+"P15   Outr traum de parto";5;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;6
+"P20   Hipoxia intra-uterina";37;2;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;1;41
+"P21   Asfixia ao nascer";87;15;12;5;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;120
+"P22   Desconforto respirat do recem-nascido";222;37;10;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;269
+"P23   Pneumonia congen";30;7;15;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;52
+"P24   Sindr de aspiracao neonatal";36;16;16;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;68
+"P25   Enfisema interst afecc corr orig per perinat";17;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;21
+"P26   Hemorragia pulmonar orig periodo perinatal";50;10;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;64
+"P27   Doenc respirat cron orig periodo perinatal";3;2;19;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;25
+"P28   Outr afeccoes respirat orig per perinatal";87;14;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;104
+"P29   Transt cardiovasc orig periodo perinatal";45;11;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;61
+"P35   Doenc virais congen";1;-;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3
+"P36   Septicemia bacter do recem-nascido";162;132;43;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;337
+"P37   Outr doenc infecc e parasit congen";-;5;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;6
+"P38   Onfalite recem-nasc c/ou s/hemorragia leve";-;2;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3
+"P39   Outr infecc especificas do periodo perinatal";15;12;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;32
+"P50   Perda sanguinea fetal";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"P52   Hemorragia intracran nao-traum feto rec-nasc";3;11;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;17
+"P53   Doenc hemorragica do feto e do recem-nascido";5;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;6
+"P54   Outr hemorragias neonatais";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"P55   Doenc hemolitica do feto e do recem-nascido";1;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;2
+"P57   Kernicterus";1;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2
+"P60   Coagulacao intravasc dissem feto rec-nasc";6;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;7
+"P61   Outr transt hematologicos perinatais";11;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;14
+"P70   Trans transit metab carboid esp fet rec-nasc";9;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;11
+"P74   Outr dist eletrolit metab transit per neonat";1;2;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;4
+"P76   Outr obstrucoes intestinais do recem-nascido";1;-;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3
+"P77   Enterocolite necrotizante do feto e rec-nasc";8;33;33;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;75
+"P78   Outr transt ap digestivo periodo perinatal";5;7;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;14
+"P80   Hipotermia do recem-nascido";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2
+"P83   Outr afecc compr tegum espec feto rec-nasc";9;4;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;15
+"P90   Convulsoes do recem-nascido";-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"P91   Outr disturbios funcao cerebral rec-nasc";3;2;8;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;13
+"P94   Transt do tonus muscular do recem-nascido";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"P96   Outr afeccoes originadas periodo perinatal";51;27;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;79
+"Q00   Anencefalia e malformacoes similares";32;1;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;35
+"Q01   Encefalocele";6;-;-;-;1;1;-;-;-;-;1;-;-;1;-;-;-;-;-;-;-;10
+"Q02   Microcefalia";-;-;-;1;2;1;-;1;-;-;1;-;-;-;-;-;-;-;-;-;-;6
+"Q03   Hidrocefalia congen";3;3;16;7;1;1;1;-;1;-;-;-;1;-;-;-;-;-;-;-;-;34
+"Q04   Outr malformacoes congen do cerebro";6;1;6;8;1;2;-;1;-;-;1;1;-;-;-;-;-;-;-;-;-;27
+"Q05   Espinha bifida";1;1;2;3;-;-;1;1;-;1;-;-;-;-;1;-;-;-;-;-;-;11
+"Q06   Outr malformacoes congen da medula espinhal";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1
+"Q07   Outr malformacoes congen do sist nervoso";4;1;-;-;-;-;2;-;-;-;-;1;1;-;-;-;-;-;-;-;-;9
+"Q20   Malform congen camaras e comunicacoes card";16;19;21;4;-;-;1;1;-;-;-;-;-;-;1;-;-;-;-;-;-;63
+"Q21   Malformacoes congen dos septos cardiacos";12;11;32;13;1;-;3;1;1;-;3;1;1;2;1;1;1;3;-;2;-;89
+"Q22   Malform congen valvas pulmonar tricuspide";10;12;6;3;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;32
+"Q23   Malformacoes congen valvas aortica e mitral";11;14;24;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;53
+"Q24   Outr malformacoes congen do coracao";52;32;73;12;5;4;2;2;-;-;1;-;-;2;3;4;2;4;1;7;-;206
+"Q25   Malformacoes congen das grandes arterias";13;14;13;-;1;-;1;1;-;1;-;1;-;-;-;-;-;1;-;1;-;47
+"Q26   Malformacoes congen das grandes veias";-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"Q27   Outr malformacoes congen sist vasc perif";1;-;-;-;-;-;-;-;-;-;-;-;2;-;1;-;-;-;-;-;1;5
+"Q28   Outr malform congen aparelho circulatorio";-;1;1;-;-;-;-;-;-;1;1;-;-;-;1;-;-;-;-;-;-;5
+"Q31   Malformacoes congen da laringe";-;-;1;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2
+"Q32   Malformacoes congen traqueia e bronquios";3;1;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;7
+"Q33   Malformacoes congen do pulmao";43;2;6;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;55
+"Q34   Outr malformacoes congen aparelho respirat";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"Q36   Fenda labial";2;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3
+"Q37   Fenda labial c/fenda palatina";-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"Q39   Malformacoes congen do esofago";1;1;7;1;-;-;-;1;-;-;-;-;-;-;-;-;-;1;-;-;-;12
+"Q40   Outr malform congen trato digestivo super";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"Q41   Ausencia atresia estenose congen intest delg";-;-;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;5
+"Q42   Ausencia atresia e estenose congen do colon";-;-;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2
+"Q43   Outr malformacoes congen do intestino";-;4;2;1;-;1;-;-;-;-;-;-;1;1;2;1;-;-;-;1;-;14
+"Q44   Malform congen vesic biliar via biliar figad";2;-;3;1;-;1;-;-;1;-;1;1;1;-;-;1;2;-;1;1;-;16
+"Q45   Outr malformacoes congen aparelho digestivo";-;1;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2
+"Q56   Sexo indeterminado e pseudo-hermafroditismo";-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"Q60   Agenesia renal e outr defeitos reducao rim";22;-;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;25
+"Q61   Doenc cisticas do rim";15;1;1;-;-;-;-;-;2;-;1;-;-;2;4;1;1;1;2;-;-;31
+"Q62   Anom cong obstr pelv renal malf cong ureter";3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;4
+"Q63   Outr malformacoes congen do rim";6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;7
+"Q64   Outr malformacoes congen aparelho urinario";8;1;1;1;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;12
+"Q75   Outr malformacoes congen ossos cranio e face";1;-;-;2;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;5
+"Q76   Malform congen coluna vertebral ossos torax";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"Q77   Osteocondr c/anom cresc ossos long col vert";-;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2
+"Q78   Outr osteocondrodisplasias";4;-;1;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;6
+"Q79   Malformacoes congen sist osteomuscular NCOP";44;12;17;2;2;-;1;-;-;-;-;-;-;1;-;-;-;-;-;-;-;79
+"Q81   Epidermolise bolhosa";-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"Q85   Facomatoses NCOP";-;-;-;-;-;1;1;-;1;2;-;-;-;1;2;-;-;-;-;-;-;8
+"Q86   Sindr c/malf cong dev causas exog conh NCOP";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"Q87   Outr sindr c/malform cong q acomet mult sist";7;2;6;1;-;1;3;-;3;1;1;2;1;-;-;-;1;-;-;-;-;29
+"Q89   Outr malformacoes congen NCOP";59;11;10;7;1;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;90
+"Q90   Sindr de Down";3;2;23;8;2;1;3;1;3;1;-;5;5;3;7;7;2;-;-;-;-;76
+"Q91   Sindr de Edwards e sindr de Patau";22;7;13;2;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;45
+"Q92   Outr trissomias e trissom parc autoss NCOP";2;-;-;1;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;4
+"Q93   Monossomias e delecoes dos autossomos NCOP";1;-;1;2;-;-;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;6
+"Q98   Outr anom cromoss sexuais fenotipo masc NCOP";1;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2
+"Q99   Outr anomalias dos cromossomos NCOP";6;2;8;1;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;18
+"R00   Anormalidades do batimento cardiaco";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;3;-;5
+"R02   Gangrena NCOP";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"R03   Valor anormal pressao arterial s/diagn";-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;1
+"R04   Hemorragia das vias respirat";-;-;-;-;-;1;3;2;1;1;1;1;3;-;1;-;1;-;-;1;-;16
+"R06   Anormalidades da respiracao";-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;2
+"R07   Dor de garganta e no peito";-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;1;-;-;1;-;-;5
+"R09   Outr sint sinais relat ap circulat respirat";-;-;2;2;3;2;7;8;7;6;12;12;25;37;49;47;49;54;67;156;-;545
+"R10   Dor abdominal e pelvica";-;-;-;-;-;-;-;-;-;1;-;-;-;2;4;6;3;7;7;13;-;43
+"R11   Nausea e vomitos";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;2
+"R13   Disfagia";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;2
+"R16   Hepatomegalia e esplenomegalia NCOP";-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-;-;-;-;-;2
+"R17   Ictericia NE";-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;2;1;4
+"R22   Tumefac massa tumoracao loc pele tec subcut";-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;1;-;-;-;-;3
+"R23   Outr alteracoes cutaneas";-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;1
+"R29   Outr sint sinais relat sist nerv osteomusc";-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;1
+"R40   Sonolencia estupor e coma";-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-;-;-;2
+"R50   Febre origem desconhecida e outras origens";-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-;-;1;-;-;3
+"R54   Senilidade";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;4;14;22;226;-;267
+"R55   Sincope e colapso";-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;-;-;2
+"R56   Convulsoes NCOP";-;-;-;-;-;-;-;-;4;2;2;-;2;5;3;1;1;-;1;1;1;23
+"R57   Choque NCOP";2;-;1;1;-;-;2;5;4;5;1;15;2;17;12;16;13;15;21;32;1;165
+"R58   Hemorragia NCOP";-;-;-;-;-;-;1;2;1;-;2;2;3;3;1;2;-;1;2;1;-;21
+"R59   Aumento de volume dos ganglios linfaticos";-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;2;-;3
+"R63   Sint sinais relat ingestao alimentos liquid";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;2
+"R64   Caquexia";-;-;-;-;-;-;-;-;-;-;1;-;2;5;2;2;1;7;7;28;-;55
+"R68   Outr sint e sinais gerais";1;-;2;-;-;2;1;-;4;2;3;8;8;9;19;15;17;24;35;101;1;252
+"R79   Outr achados anormais exames quimicos sangue";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"R89   Achados anorms mat prov outr org ap sist tec";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"R90   Result anorm exam diagn imag sist nerv centr";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"R91   Achados anorm exames diagn imagem do pulmao";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;2
+"R92   Achados anorm exames diagn imagem da mama";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"R95   Sindr da morte subita na infancia";2;1;9;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-;14
+"R96   Outr mortes subitas de causa desconhecida";-;-;2;-;-;1;1;4;4;2;10;8;15;20;25;28;34;35;35;69;-;293
+"R98   Morte s/assist";2;1;4;-;2;3;10;13;19;39;60;88;130;182;214;251;215;251;258;572;10;2324
+"R99   Outr causas mal definidas e NE mortalidade";6;2;51;20;10;16;86;153;141;174;178;245;254;292;379;365;319;323;281;670;77;4042
+"V01   Pedestre traum colis veic a pedal";-;-;-;-;1;-;1;-;1;1;-;-;-;-;1;-;1;-;-;2;-;8
+"V02   Pedestre traum colis veic motor 2 3 rodas";-;-;-;-;2;1;3;4;8;4;3;10;8;7;11;7;7;9;9;13;2;108
+"V03   Pedestre traum colis automov pickup caminhon";-;-;-;2;4;4;16;14;14;17;35;23;24;23;19;20;16;21;13;30;8;303
+"V04   Pedestre traum colis veic transp pesado onib";-;-;2;1;1;2;11;15;10;15;20;15;21;16;12;12;5;10;5;9;7;189
+"V05   Pedestre traum colis trem veic ferroviario";-;-;-;-;-;1;6;10;1;7;7;6;1;1;4;2;1;1;-;2;6;56
+"V06   Pedestre traum colis outr veic nao-motoriz";-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;-;-;-;-;2
+"V09   Pedestre traum outr acid transp e NE";-;-;-;8;11;9;31;33;56;63;69;63;67;74;63;58;38;27;35;35;50;790
+"V10   Ciclista traum colis pedestre animal";-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-;-;-;2
+"V11   Ciclista traum colis outr veic a pedal";-;-;-;-;-;-;-;-;-;1;-;-;1;1;1;-;-;-;-;-;-;4
+"V12   Ciclista traum colis veic motor 2 3 rodas";-;-;-;-;-;3;1;-;-;-;1;-;-;3;-;-;2;2;1;2;-;15
+"V13   Ciclista traum colis automov pickup caminhon";-;-;-;-;-;-;7;3;3;6;5;7;10;5;4;7;3;1;2;3;-;66
+"V14   Ciclis traum colis veic transp pesado onibus";-;-;-;-;3;5;6;7;1;1;7;4;1;5;3;3;1;-;1;-;1;49
+"V17   Ciclista traum colis objeto fixo ou parado";-;-;-;-;-;1;3;-;1;2;-;-;-;-;-;-;-;-;-;-;-;7
+"V18   Ciclista traum acid transp s/colis";-;-;-;-;-;1;5;2;1;4;2;7;5;4;1;4;2;1;1;-;-;40
+"V19   Ciclista traum acid transp e NE";-;-;-;-;-;7;3;3;5;6;7;5;5;6;14;6;1;5;1;3;-;77
+"V20   Motociclista traum colis pedestre animal";-;-;-;-;-;-;3;2;3;2;-;2;1;2;-;-;1;-;-;-;-;16
+"V21   Motociclista traum colis veic pedal";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1
+"V22   Motocicl traum colis veic motor 2 3 rodas";-;-;-;-;-;1;9;8;11;4;4;2;2;-;1;1;-;-;-;-;-;43
+"V23   Motocicl traum colis automov pickup caminhon";-;-;-;-;-;4;38;69;64;52;36;30;25;15;9;4;1;-;-;1;-;348
+"V24   Motocicl traum colis veic transp pesado onib";-;-;-;-;-;2;25;46;44;30;23;13;15;9;5;1;1;-;-;1;-;215
+"V26   Motocicl traum colis outr veic nao-motoriz";-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-;-;-;2
+"V27   Motocicl traum colis objeto fixo parado";-;-;-;-;-;3;48;47;34;26;18;10;10;2;4;1;1;-;-;1;1;206
+"V28   Motociclista traum acid transp s/colis";-;-;-;-;-;-;17;23;20;12;9;10;3;4;4;-;-;-;-;1;-;103
+"V29   Motociclista traum outr acid transp e NE";-;-;-;-;-;4;89;127;99;108;54;41;35;16;11;4;8;4;1;-;1;602
+"V30   Ocup tricicl mot traum colis pedestre animal";-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;-;-;-;-;-;2
+"V38   Ocup tricic motor traum acid transp s/colis";-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;1
+"V39   Ocup tricicl mot traum outr acid transp e NE";-;-;-;-;1;-;-;-;1;-;1;-;1;1;-;-;-;-;-;-;-;5
+"V40   Ocup automovel traum colis pedestre animal";-;-;-;-;-;-;-;1;-;-;2;-;-;-;2;-;-;-;-;-;-;5
+"V42   Ocup autotraum colis outr veic mot 2 3 rodas";-;-;-;-;-;-;-;1;-;-;-;2;-;-;1;-;-;1;-;1;-;6
+"V43   Ocup automov traum col auto pickup caminhon";-;-;1;1;4;3;14;15;18;13;19;18;10;15;11;6;8;3;2;2;-;163
+"V44   Ocup autom traum colis veic trans pesad onib";-;-;-;1;1;2;17;23;22;18;21;15;12;25;16;8;9;2;-;3;-;195
+"V46   Ocup automov traum colis outr veic n-motor";-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;1
+"V47   Ocup automovel traum colis obj fixo parado";-;-;-;2;-;-;22;34;27;24;16;8;8;6;5;6;3;-;2;1;-;164
+"V48   Ocup automovel traum acid transp s/colis";-;-;-;-;2;1;4;13;21;23;13;16;6;4;6;5;3;3;-;1;-;121
+"V49   Ocup automovel traum outr acid transp e NE";-;-;2;5;7;4;24;64;62;75;53;51;41;40;39;27;24;10;12;6;1;547
+"V50   Ocup caminhonete traum colis pedestre animal";-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"V53   Ocup caminhon traum colis automov caminhon";-;-;-;-;-;-;-;-;-;-;-;1;2;-;-;-;-;-;-;-;-;3
+"V54   Ocup caminhon traum col veic transp pes onib";-;-;-;-;-;-;1;2;1;1;3;4;1;1;1;-;-;1;-;-;-;16
+"V56   Ocup caminhonete traum colis outr veic n-mot";-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;1
+"V57   Ocup caminhonete traum colis obj fixo parado";-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-;-;-;-;2
+"V58   Ocup caminhonete traum acid transp s/colis";-;-;-;-;-;-;-;2;-;-;-;1;-;2;1;-;-;-;-;-;-;6
+"V59   Ocup caminhonete traum outr acid transp NE";-;-;-;-;-;-;-;1;-;1;-;-;-;-;2;-;-;-;-;-;-;4
+"V60   Ocup veic transp pesado traum colis ped anim";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1
+"V63   Ocup veic tr pesado traum col auto caminhon";-;-;-;-;1;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-;3
+"V64   Ocup v tr pes tr col outr veic tr pes onib";-;-;-;-;-;-;-;1;5;4;6;8;14;2;6;5;1;1;-;-;-;53
+"V67   Ocup veic tr pesado traum col obj fixo parad";-;-;-;-;-;-;1;-;1;-;3;2;4;1;4;-;-;-;-;-;-;16
+"V68   Ocup veic tr pesado traum ac transp s/colis";-;-;-;-;-;-;1;1;2;6;7;6;7;3;6;2;1;-;2;-;-;44
+"V69   Ocup veic tr pesado traum outr ac transp NE";-;-;-;-;-;-;-;2;2;5;5;2;3;5;1;1;2;-;-;-;-;28
+"V73   Ocup onibus traum colis automovel caminhonet";-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;1
+"V74   Ocup onibus traum colis veic transp pes onib";-;-;-;-;-;-;7;-;-;3;2;1;1;1;-;2;-;-;-;-;-;17
+"V75   Ocup onibus traum colis trem veic ferrov";-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;1
+"V77   Ocup onibus traum colis objeto fixo parado";-;-;-;-;-;-;-;-;3;1;-;-;-;-;-;-;-;-;-;-;-;4
+"V78   Ocup onibus traum acid transp s/colis";-;-;-;-;-;1;-;1;-;1;-;1;-;-;-;-;-;-;-;-;-;4
+"V79   Ocup onibus traum outr acid transp e NE";-;-;-;-;-;-;-;3;2;-;2;-;-;2;1;-;-;1;-;-;-;11
+"V80   Pess mont anim oc veic anim traum ac transp";-;-;-;-;-;-;-;1;3;-;1;1;1;2;2;2;1;1;1;-;-;16
+"V81   Ocup trem veic ferroviario traum acid transp";-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;1
+"V82   Ocup de um bonde traum acid transp";-;-;-;-;-;-;-;-;-;1;1;-;1;-;-;-;-;-;-;-;-;3
+"V83   Ocup veic esp mot area ind traum ac transp";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1
+"V84   Ocup veic esp mot uso agric traum acid trans";-;-;-;1;-;2;-;1;-;2;2;1;3;-;4;4;4;-;1;-;-;25
+"V86   Ocup veic outr uso n-via pub traum ac transp";-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-;-;1;-;-;3
+"V87   Acid trans tipo espec desconh mod transp vit";-;-;-;-;2;-;10;9;14;12;10;7;10;7;5;4;3;3;1;1;-;98
+"V88   Ac n-trans tipo espec desconh mod transp vit";-;-;-;-;-;1;-;-;-;-;-;-;1;1;-;4;-;-;-;-;-;7
+"V89   Acid veic mot n-mot tipos de veic NE";-;-;1;1;5;10;70;130;138;118;105;94;87;75;73;59;39;22;25;16;8;1076
+"V90   Acid embarcacao caus afogamento submersao";-;-;-;-;-;-;-;-;1;1;-;1;-;-;1;-;-;-;-;-;-;4
+"V91   Acid embarcacao causando outr tipo de traum";-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;2
+"V93   Acid bord emb s/ac bem n caus afog submers";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1
+"V94   Outr acid transp p/agua e os NE";-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;1
+"V95   Acid de aeronave mot causando traum ao ocup";-;-;-;-;-;-;-;-;-;2;3;-;-;-;-;-;1;-;-;-;-;6
+"V97   Outr acid espec de transporte aereo";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1
+"V98   Outr acid transp espec";-;-;-;-;-;-;1;-;-;-;-;-;-;-;1;-;-;-;-;-;-;2
+"V99   Acid transp NE";-;-;-;1;1;1;6;10;11;11;11;10;10;9;7;3;2;3;3;1;-;100
+"W01   Queda mesmo nivel escorr tropec passo falso";-;-;-;-;1;2;1;-;1;-;5;4;13;5;9;10;9;8;20;51;1;140
+"W02   Queda env patins rodas gelo esqui pranch rod";-;-;-;-;-;-;2;1;-;-;2;1;-;-;-;-;-;-;-;-;-;6
+"W03   Outr qued mesmo niv colis empurrao outr pess";-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;1
+"W04   Queda enquanto carreg apoiado p/outr pessoas";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"W05   Queda envolv uma cadeira de rodas";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1
+"W06   Queda de um leito";-;-;-;1;-;-;-;-;1;1;1;1;3;1;2;4;-;2;4;14;-;35
+"W07   Queda de uma cadeira";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;4;-;7
+"W08   Queda de outr tipo de mobilia";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;2
+"W09   Queda envolv equipamento de playground";-;-;-;1;-;-;-;-;-;-;1;1;-;-;-;-;-;-;-;-;-;3
+"W10   Queda em ou de escadas ou degraus";-;-;-;-;-;1;-;1;7;11;10;11;15;20;14;25;17;13;13;17;-;175
+"W11   Queda em ou de escadas de mao";-;-;-;-;-;-;-;-;-;-;1;1;1;3;1;3;-;1;2;5;-;18
+"W12   Queda em ou de um andaime";-;-;-;-;-;-;-;1;2;3;1;3;5;3;5;5;1;2;2;1;2;36
+"W13   Queda de ou p/fora edificios outr estruturas";-;-;-;-;6;2;7;7;9;15;21;14;20;19;30;25;17;11;7;9;1;220
+"W14   Queda de arvore";-;-;-;-;-;-;1;1;2;2;1;-;1;2;4;3;2;3;-;-;-;22
+"W15   Queda de penhasco";-;-;-;-;-;1;-;-;-;-;1;-;-;-;-;-;-;-;-;-;1;3
+"W16   Merg pulo agua caus out traum n afog submers";-;-;-;-;-;-;1;1;2;2;2;-;-;-;-;1;-;-;-;-;-;9
+"W17   Outr quedas de um nivel a outr";-;-;-;-;1;-;1;7;8;7;17;7;12;12;7;6;9;6;6;8;1;115
+"W18   Outr quedas no mesmo nivel";1;-;-;-;-;-;2;3;1;8;16;34;35;44;37;50;37;59;82;241;4;654
+"W19   Queda s/especificacao";-;-;1;3;-;2;3;5;13;12;24;32;53;56;57;54;50;51;69;174;4;663
+"W20   Impacto caus objeto lanc projetado em queda";-;-;1;4;-;-;1;5;3;7;4;10;3;5;3;5;4;-;1;1;-;57
+"W21   Impacto acid ativo passivo caus equip esport";-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"W22   Impacto acid ativo passivo caus outr objetos";-;-;-;-;-;-;1;-;2;3;-;-;-;1;1;1;-;-;-;1;-;10
+"W23   Apert colhid comprim esmag dentro objetos";-;-;-;-;-;-;1;1;-;4;2;4;4;2;3;1;1;1;-;-;-;24
+"W24   Contato elevadores instr de transm NCOP";-;-;-;-;-;-;1;2;-;-;-;-;1;1;-;-;-;-;-;1;-;6
+"W25   Contato c/vidro cortante";-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;-;-;-;-;2
+"W26   Contato c/faca espada e punhal";-;-;-;-;-;-;-;1;1;1;1;-;-;1;-;1;-;-;-;-;-;6
+"W29   Contat out utens manuais ap domest equip mot";-;-;-;1;-;-;-;-;-;-;-;-;1;-;1;1;-;-;-;-;-;4
+"W30   Contato c/maquinaria agricola";-;-;-;-;-;-;-;1;1;-;-;1;1;2;1;-;-;-;-;-;-;7
+"W31   Contato c/outr maquinas e c/as NE";-;-;-;-;-;-;-;2;2;-;1;1;-;-;2;3;-;-;-;-;-;11
+"W32   Projetil de revolver";-;-;-;-;-;1;8;5;5;5;-;1;3;3;-;-;-;-;1;-;1;33
+"W33   Rifle espingarda armas fogo de maior tamanho";-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;1
+"W34   Projeteis de outr armas de fogo e das NE";-;-;-;-;-;-;6;2;10;4;3;1;2;2;1;-;-;-;-;-;-;31
+"W35   Explosao ou ruptura de caldeira";-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;1
+"W36   Explosao ou ruptura de cilindro de gas";-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;2
+"W37   Explosao ruptura pneumat tubulac mang press";-;-;-;-;-;-;-;-;1;-;1;-;-;-;-;-;-;-;-;-;-;2
+"W39   Queima de fogos de artificio";-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;1
+"W40   Explosao de outr materiais";-;-;-;-;1;-;-;-;1;1;1;-;1;2;-;2;-;-;-;-;-;9
+"W44   Penetr corpo estranho olho orificio natural";-;-;-;-;-;-;-;-;-;-;2;-;-;1;-;1;1;-;-;-;-;5
+"W45   Penetracao corpo objeto estranho pele";-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;1;2
+"W49   Exposicao outr forcas mecan inanimadas e NE";-;-;-;-;-;1;-;-;1;-;1;-;1;1;2;-;2;-;-;1;-;10
+"W54   Mordedura ou golpe provocado p/cao";-;-;-;1;-;-;-;-;-;-;1;-;1;-;1;-;-;-;-;1;-;5
+"W55   Mordedura golpe provoc outr animais mamif";-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;1;-;-;1;1;-;5
+"W57   Morded picadas inseto outr artrop n-venen";-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;1;-;-;-;-;3
+"W64   Exposicao outr forcas mecan animadas e as NE";-;1;-;-;-;-;-;1;2;1;-;1;-;1;-;-;-;-;-;-;-;7
+"W66   Afogamento submersao consec queda banheira";-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"W67   Afogamento e submersao em piscina";-;-;-;7;3;-;2;1;1;-;2;-;1;1;-;-;1;-;-;1;-;20
+"W68   Afogamento submersao conseq queda piscina";-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;2
+"W69   Afogamento e submersao em aguas naturais";-;-;-;2;4;15;59;39;42;22;34;25;35;14;13;9;6;5;2;1;3;330
+"W70   Afogamento submersao conseq queda aguas nat";-;-;-;-;-;-;1;3;1;4;1;-;2;2;3;-;-;-;-;-;-;17
+"W73   Outr afogamentos e submersao espec";-;-;-;1;-;-;2;-;-;-;-;-;-;-;-;-;1;-;-;-;-;4
+"W74   Afogamento e submersao NE";-;-;4;14;3;17;47;38;30;24;26;31;17;13;18;4;3;6;3;4;16;318
+"W75   Sufocacao e estrangulamento acid na cama";-;1;3;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;5
+"W76   Outr enforcamento e estrangulamento acid";-;-;-;1;-;-;1;2;-;-;-;-;1;-;-;-;-;-;-;-;-;5
+"W77   Risco resp dev desmor queda terra outr subst";-;-;-;1;1;-;2;1;2;3;2;-;1;3;1;1;-;-;-;-;-;18
+"W78   Inalacao do conteudo gastrico";2;3;28;2;2;-;1;5;1;3;4;4;4;8;2;6;1;7;6;6;-;95
+"W79   Inalacao ingest aliment caus obstr trat resp";-;1;18;8;1;-;2;2;1;2;3;6;9;10;9;11;4;5;6;7;-;105
+"W80   Inalac ingest outr obj caus obstr trat resp";-;-;2;1;-;1;1;-;-;1;2;1;1;1;1;-;-;1;-;1;-;14
+"W84   Riscos NE a respiracao";-;2;35;3;1;4;5;7;7;4;6;2;3;4;5;10;7;8;14;23;1;151
+"W85   Exposicao linhas transm de corrente eletrica";-;-;-;-;1;-;2;1;3;1;1;1;-;2;1;-;1;-;-;-;-;14
+"W86   Exposicao a outr corrente eletrica espec";-;-;-;-;-;-;1;-;1;1;-;1;2;-;1;-;-;-;-;-;-;7
+"W87   Exposicao a corrente eletrica NE";-;-;-;2;-;6;8;16;17;9;19;12;9;8;7;8;-;-;1;1;1;124
+"W90   Exposicao outr tipos radiacao nao-ionizante";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1
+"W99   Exposicao outr fatores ambient artif e NE";-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;1
+"X00   Expos fogo n-contr edificio outr tipo constr";-;-;-;-;3;-;-;1;1;-;-;-;1;2;1;1;-;1;-;1;-;12
+"X01   Expos fogo n-contr fora edif out tipo constr";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"X02   Exposicao fogo contr edif outr tipo constr";-;-;-;2;-;-;-;-;-;1;-;-;-;-;-;-;1;-;-;-;-;4
+"X04   Exposicao combustao subst muito inflamavel";-;-;-;-;-;-;-;2;4;1;2;-;4;1;2;1;2;3;-;2;-;24
+"X08   Exposicao outr tipo espec fumaca fogo chamas";-;-;-;-;1;-;-;-;1;-;-;-;1;2;2;1;-;-;-;4;-;12
+"X09   Exposicao a tipo NE de fumaca fogo chamas";-;-;-;4;-;-;1;4;6;10;8;11;10;7;12;6;2;8;2;5;5;101
+"X12   Contato c/outr liquidos quentes";-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-;-;-;-;1;-;3
+"X19   Contato outr fontes calor subst quentes NE";-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;1
+"X20   Contato c/serpentes e lagartos venenosos";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;2
+"X21   Contato c/aranhas venenosas";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"X22   Contato c/escorpioes";-;-;-;1;-;-;1;-;-;-;-;-;-;-;1;-;-;-;-;-;-;3
+"X23   Contato c/abelhas vespas e vespoes";-;-;-;-;-;-;-;-;-;-;1;-;1;-;2;-;-;-;2;1;-;7
+"X25   Contato c/outr artropodes venenosos";-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"X29   Contato animais ou plantas venenosos s/espec";-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;2
+"X33   Vitima de raio";-;-;-;-;-;-;-;1;2;-;-;1;1;-;-;2;1;-;-;-;1;9
+"X35   Vitima de erupcao vulcanica";-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"X36   Vitima avalanc desab terra out mov sup terr";-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;1;-;-;-;-;-;3
+"X37   Vitima de tempestade cataclismica";-;-;-;-;-;1;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;2
+"X40   Envenen acid analg antipir anti-reum n-opiac";-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;1
+"X41   Env ac anticon sed hipn antipark psicot NCOP";-;-;-;-;-;-;1;-;-;1;-;2;1;-;-;-;1;-;-;-;-;6
+"X42   Envenen acid narcot psicodislepticos NCOP";-;-;-;-;-;-;26;31;24;6;17;5;3;2;-;-;-;-;-;-;1;115
+"X43   Envenen acid outr subst farm sist nerv auton";-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;1;-;-;2
+"X44   Envenen acid outr drog medic subst biolog NE";-;-;1;-;-;-;1;1;1;1;1;-;1;-;-;1;-;-;-;1;-;9
+"X45   Envenen acid p/e exposicao ao alcool";-;-;-;-;-;-;-;-;4;3;5;7;6;6;5;1;-;-;-;-;-;37
+"X46   Envenen acid solv org hidrocarb halog vapor";-;-;-;-;-;1;58;30;8;4;2;-;1;-;-;-;-;-;-;-;1;105
+"X47   Intox acid outr gases e vapores";-;-;-;-;-;-;-;-;-;1;-;-;-;1;1;-;-;-;-;-;-;3
+"X48   Envenen acid p/e exposicao a pesticidas";-;-;-;-;1;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;-;3
+"X49   Envenen acid outr subst quim nocivas e as NE";-;-;-;3;-;-;2;1;2;1;-;-;-;-;-;-;1;1;1;-;-;12
+"X50   Excesso exerc movim vigorosos ou repetitivos";-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;-;2
+"X54   Falta de agua";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"X57   Privacao NE";-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"X58   Exposicao a outr fatores espec";-;-;-;-;-;-;-;1;-;1;-;-;-;-;1;-;-;-;-;1;1;5
+"X59   Exposicao a fatores NE";-;-;1;1;1;2;8;18;16;23;25;19;25;20;21;23;21;17;25;68;7;341
+"X60   Auto-int int analg antipir anti-reum n-opiac";-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-;-;-;-;2
+"X61   Auto-int int a-conv sed hip a-park psic NCOP";-;-;-;-;-;-;1;3;2;3;4;4;1;4;2;-;-;1;-;1;-;26
+"X62   Auto-intox intenc narcot psicodislept NCOP";-;-;-;-;-;-;-;6;2;3;2;1;-;-;-;-;-;-;-;-;-;14
+"X63   Auto-int int outr subst farm sist nerv auton";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+"X64   Auto-int intenc out drog med subst biolog NE";-;-;-;-;-;-;1;1;3;1;4;1;2;-;1;1;1;-;-;1;-;17
+"X65   Auto-intox voluntaria p/alcool";-;-;-;-;-;-;-;-;1;-;1;-;-;-;1;-;-;-;-;-;-;3
+"X66   Auto-int int solv org hidrocarb halog vapor";-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-;-;-;-;-;-;2
+"X67   Auto-intox intenc p/outr gases e vapores";-;-;-;-;-;-;-;-;1;1;3;-;1;1;1;-;-;-;-;-;-;8
+"X68   Auto-intox intenc a pesticidas";-;-;-;-;-;-;1;2;1;7;10;10;12;7;7;2;5;-;5;4;-;73
+"X69   Auto-int intenc outr prod quim subst noc NE";-;-;-;-;-;-;-;1;-;-;2;1;2;3;1;4;1;-;1;-;-;16
+"X70   Lesao autoprov intenc enforc estrang sufoc";-;-;-;-;-;5;43;120;144;174;148;131;111;73;73;54;33;16;20;19;8;1172
+"X71   Lesao autoprov intenc p/afogamento submersao";-;-;-;-;-;-;-;-;2;6;-;1;1;1;-;1;-;1;-;-;-;13
+"X72   Lesao autoprov intenc disp arma fogo de mao";-;-;-;-;-;-;1;5;8;3;3;2;3;7;2;2;1;1;1;2;-;41
+"X73   Les autoprov int disp arm fog maior calibre";-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;-;-;-;-;2
+"X74   Lesao autopr intenc disp outr arma fogo e NE";-;-;-;-;-;1;3;16;15;14;10;13;10;15;8;6;5;6;1;5;-;128
+"X75   Lesao autoprov intenc p/disp explosivos";-;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-;-;-;-;-;-;2
+"X76   Lesao autoprov intenc fumaca fogo e chamas";-;-;-;-;-;-;-;-;5;1;7;5;1;4;2;-;1;-;-;-;-;26
+"X77   Lesao autopr int vapor agua gas  obj quent";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;1;-;3
+"X78   Lesao autoprov intenc obj cortante  penetr";-;-;-;-;-;-;1;2;2;3;5;8;4;2;4;5;2;2;-;1;-;41
+"X79   Lesao autoprov intenc p/objeto contundente";-;-;-;-;-;-;2;3;9;4;4;4;3;2;1;1;3;2;-;1;1;40
+"X80   Lesao autoprov intenc precip lugar elevado";-;-;-;-;-;-;4;17;16;7;12;8;4;10;8;1;5;2;2;3;-;99
+"X81   Lesao autoprov intenc precip perm obj movim";-;-;-;-;-;-;1;-;-;2;-;-;-;1;-;-;-;1;-;-;-;5
+"X82   Lesao autoprov intenc impacto veic a motor";-;-;-;-;-;-;1;4;7;2;1;3;-;1;-;-;-;-;-;-;2;21
+"X83   Lesao autoprov intenc p/outr meios espec";-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;1;1;-;4
+"X84   Lesao autoprov intenc p/meios NE";-;-;-;-;-;-;2;-;3;7;5;-;2;1;2;-;-;1;1;-;-;24
+"X88   Agressao p/meio de gases e vapores";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1
+"X90   Agressao prod quimicos e subst nocivas NE";-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-;-;-;-;1;3
+"X91   Agressao enforc estrangulamento sufocacao";-;-;-;-;-;1;5;13;9;8;7;7;10;8;5;4;2;-;3;-;13;95
+"X92   Agressao p/meio de afogamento e submersao";-;-;-;-;-;-;1;-;1;-;-;-;1;-;1;-;-;-;-;-;-;4
+"X93   Agressao disparo de arma de fogo de mao";-;-;-;-;-;4;55;74;67;55;41;39;14;11;11;4;1;1;-;-;-;377
+"X94   Agressao disparo arma fogo de maior calibre";-;-;-;1;-;-;-;-;2;1;1;2;1;-;2;-;-;-;-;-;-;10
+"X95   Agressao disparo outr arma de fogo ou NE";-;-;-;1;-;27;543;530;498;402;263;213;135;117;60;36;32;16;5;5;65;2948
+"X96   Agressao p/meio de material explosivo";-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;1
+"X97   Agressao p/meio de fumaca fogo e chamas";-;-;-;1;-;-;1;2;3;5;4;4;3;4;2;-;2;1;1;1;7;41
+"X99   Agressao objeto cortante ou penetrante";-;-;-;3;1;5;49;99;109;126;116;90;68;48;27;17;15;12;6;5;21;817
+"Y00   Agressao p/meio de um objeto contundente";-;1;-;3;2;4;53;77;70;76;60;55;55;64;32;30;13;14;9;6;31;655
+"Y01   Agressao p/meio projecao de um lugar elevado";-;-;-;-;1;-;-;-;-;-;1;1;-;-;-;-;-;-;-;-;-;3
+"Y02   Agressao proj coloc vitima obj movimento";-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;1
+"Y03   Agressao p/meio de impacto veic a motor";-;-;-;-;-;1;3;2;1;5;1;3;5;2;2;1;3;-;2;2;1;34
+"Y04   Agressao p/meio de forca corporal";-;-;-;-;-;-;7;9;9;12;6;14;13;7;3;2;2;-;2;1;4;91
+"Y05   Agressao sexual p/meio de forca fisica";-;-;-;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2
+"Y06   Negligencia e abandono";-;-;1;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;3
+"Y07   Outr sindr de maus tratos";1;-;1;-;-;-;-;1;-;-;-;-;1;-;-;-;-;-;-;-;-;4
+"Y08   Agressao p/outr meios espec";-;-;-;-;-;-;1;-;-;3;-;-;-;1;2;1;-;1;-;-;1;10
+"Y09   Agressao p/meios NE";-;-;1;2;-;1;17;15;33;28;28;24;26;13;8;9;6;1;3;6;7;228
+"Y11   Env antic sed hipn antip psic NCOP int n det";-;-;-;-;-;-;1;6;4;4;2;1;1;-;1;-;-;-;-;-;-;20
+"Y12   Envenen narcot psicodislept NCOP int n det";-;-;-;-;-;-;2;-;1;-;3;1;1;-;-;-;-;-;-;-;-;8
+"Y13   Env out subst farm sist nerv auton int n det";-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;1
+"Y14   Env out drog med subst biolog e NE int n det";-;-;-;-;-;-;1;2;2;-;1;-;1;-;-;1;-;-;-;-;-;8
+"Y15   Envenen alcool intencao nao determinada";-;-;-;-;-;-;1;1;1;2;1;-;5;2;-;3;-;-;-;-;-;16
+"Y16   Env solv org hidrocarb halog vap int n det";-;-;-;-;-;-;1;-;1;-;1;-;-;-;-;-;-;-;-;-;-;3
+"Y17   Envenen outr gases vapores intenc n det";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;2
+"Y18   Envenen pesticidas intencao nao determinada";-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;1;1;-;-;-;4
+"Y19   Env out prod quim subst noc e NE int n det";-;-;-;1;-;-;4;3;2;5;5;3;2;-;1;-;2;-;-;-;-;28
+"Y20   Enforc estrang sufoc intenc nao determinada";-;-;2;-;-;2;12;12;13;14;14;8;13;4;9;6;3;3;1;1;4;121
+"Y21   Afogamento submersao intenc nao determinada";-;-;1;3;1;5;15;17;13;11;12;18;12;6;3;7;3;3;-;-;8;138
+"Y22   Disparo de pistola intencao nao determinada";-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"Y24   Disparo outr arma fogo e NE intenc nao det";-;-;-;-;-;1;46;26;25;27;14;15;10;5;2;1;1;3;-;2;3;181
+"Y25   Contato c/material explosivo intenc n det";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1
+"Y26   Exposicao fumaca fogo chamas intenc n det";-;-;-;-;1;-;1;-;1;1;1;5;3;2;2;-;2;-;1;1;3;24
+"Y27   Exposic vapor agua gas obj quente int n det";-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;1
+"Y28   Contato obj cortante penetrante intenc n det";-;-;-;-;-;-;4;8;9;10;14;8;6;2;2;-;2;-;2;3;1;71
+"Y29   Contato obj contundente intenc n det";1;1;1;4;1;-;31;27;32;32;45;47;50;59;35;42;28;20;18;20;24;518
+"Y30   Queda salto empurr lugar elev intenc n det";-;-;-;-;-;-;1;-;-;1;1;5;5;2;1;4;2;2;-;2;-;26
+"Y31   Queda perman corrida obj mov intenc n det";-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"Y32   Impacto veic a motor intenc nao determinada";-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;-;-;-;1;3
+"Y33   Outr fatos ou eventos espec intenc n det";-;-;-;-;1;-;2;2;2;2;2;1;-;1;-;1;-;-;-;1;-;15
+"Y34   Fatos ou eventos NE e intenc nao determinada";1;-;4;4;1;5;28;40;45;52;49;45;45;59;52;41;33;30;23;61;15;633
+"Y35   Intervencao legal";-;-;-;-;-;4;89;66;28;16;13;8;1;1;-;-;-;-;-;-;7;233
+"Y43   Subst de acao prim sistemica";-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;1;-;2
+"Y44   Subst farm atuam prim s/constit sangue";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"Y45   Subst analges antipiret e antiinflamatorias";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;2
+"Y51   Drogas que atuam prim s/sist nerv auton";-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;1
+"Y52   Subst que atuam prim aparelho cardiovascular";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"Y54   Subst atuam prim metab agua sais min ac uric";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1
+"Y55   Subst atuam prim musc lisos esquelet ap resp";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"Y57   Outr drogas e medicamentos e as NE";-;-;-;-;-;-;-;-;1;-;-;-;-;1;1;1;1;-;-;-;-;5
+"Y60   Cort punc perf hemorr acid cuid med cirurg";-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;-;2
+"Y71   Disp cardiovasculares assoc incid adversos";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1
+"Y83   Reac anorm compl tard interv cirurg s/acid";-;-;2;2;-;2;2;1;1;1;4;4;4;8;14;11;15;16;28;25;1;141
+"Y84   Reac anorm compl tard out proc med s/acid";-;-;-;-;-;-;1;-;-;-;2;-;-;2;-;2;2;2;1;3;-;15
+"Y85   Sequelas de acid transp";-;-;-;-;-;-;-;-;1;2;1;1;1;1;2;2;2;-;-;1;-;14
+"Y86   Sequelas de outr acid";-;-;-;1;-;-;-;1;-;-;2;3;1;1;3;2;1;3;-;6;-;24
+"Y87   Seq lesao autopr inten agress fato int indet";-;-;-;-;-;-;-;-;1;1;1;-;1;3;1;3;3;1;-;1;-;16
+"Y88   Sequelas cuid med cirurg consid causa ext";-;-;-;-;-;-;-;-;-;-;1;-;2;1;-;-;1;-;-;-;-;5
+"Y89   Sequelas de outr causas externas";-;-;-;-;-;-;-;-;-;-;-;2;1;1;2;4;1;1;1;-;1;14
+"Total";2027;692;1220;582;314;486;2493;3085;3410;3869;4454;5669;7652;10141;12985;14445;15044;15487;16373;33548;663;154639
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ 
