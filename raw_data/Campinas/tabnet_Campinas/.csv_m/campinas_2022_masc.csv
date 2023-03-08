@@ -1,0 +1,406 @@
+Sistema de Informação de Mortalidade - Óbitos não fetais - Campinas
+Resid Campinas por Causa (CID10 3C) e Faixa Etária (5-5)
+Sexo: Masculino
+Período:2022
+"Causa (CID10 3C)";"0-4";"5-9";"10-14";"15-19";"20-24";"25-29";"30-34";"35-39";"40-44";"45-49";"50-54";"55-59";"60-64";"65-69";"70-74";"75-79";"80-84";"85-89";"90-94";"95-99";"100e+";"Ign";"Total"
+"A04   Outr infecc intestinais bacter";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;2;0;0;0;5
+"A09   Diarreia e gastroenterite orig infecc presum";1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;2;0;1;0;0;7
+"A15   Tuberc respirat c/conf bacteriol e histolog";0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+"A16   Tuberc vias respirat s/conf bacter histol";0;0;0;0;0;0;0;4;0;3;2;2;2;2;2;0;1;0;0;0;0;0;18
+"A17   Tuberc do sist nervoso";0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"A18   Tuberc de outr orgaos";0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+"A27   Leptospirose";0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+"A31   Infecc dev outr micobacterias";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;3
+"A39   Infecc meningogocica";0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"A41   Outr septicemias";4;0;0;1;0;0;2;0;0;0;0;0;1;2;8;8;5;9;4;0;0;0;44
+"A46   Erisipela";0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;1;0;2;1;0;0;0;7
+"A48   Outr doenc bacter NCOP";0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;1;0;0;0;0;3
+"A49   Infecc bacter de localiz NE";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+"A81   Infecc p/virus atipicos sist nervoso central";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+"A86   Encefalite viral NE";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+"A90   Dengue";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;2
+"A91   Febre hemorragica dev virus do dengue";0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+"A98   Outr febres hemorragicas p/virus NCOP";0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;3
+"A99   Febres hemorragicas virais NE";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+"B16   Hepatite aguda B";0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+"B18   Hepatite viral cronica";0;0;0;0;0;0;1;0;0;0;0;6;2;0;0;1;0;0;0;0;0;0;10
+"B19   Hepatite viral NE";0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+"B20   Doenc p/HIV result doenc infecc e parasit";0;1;0;0;1;2;1;0;4;2;2;3;2;3;0;1;0;0;0;0;0;0;22
+"B21   Doenc p/HIV result em neopl malig";0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+"B22   Doenc p/HIV result em outr doenc espec";0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+"B25   Doenc p/citomegalovirus";0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+"B34   Doenc p/virus de localiz NE";3;0;1;1;0;2;3;6;4;6;8;25;24;36;48;43;55;55;33;11;2;0;366
+"B37   Candidiase";0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"B39   Histoplasmose";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+"B57   Doenc de Chagas";0;0;0;0;0;0;0;0;0;0;1;3;2;2;1;1;2;1;0;0;0;0;13
+"B90   Sequelas de tuberc";0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"B94   Sequelas de outr doenc infecc e parasit e NE";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;2
+"C01   Neopl malig da base da lingua";0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;2
+"C02   Neopl malig outr partes e NE da lingua";0;0;0;0;0;0;0;0;1;0;1;2;1;0;2;0;0;0;0;0;0;0;7
+"C04   Neopl malig do assoalho da boca";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+"C05   Neopl malig do palato";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;2
+"C06   Neopl malig outr partes e partes NE da boca";0;0;0;0;0;0;0;0;0;0;0;1;2;2;2;0;0;0;1;0;0;0;8
+"C07   Neopl malig da gland parotida";0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+"C09   Neopl malig da amigdala";0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;4
+"C10   Neopl malig da orofaringe";0;0;0;0;0;0;0;0;0;0;0;4;1;2;1;3;0;1;0;0;0;0;12
+"C11   Neopl malig da nasofaringe";0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;3
+"C12   Neopl malig do seio piriforme";0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+"C13   Neopl malig da hipofaringe";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+"C14   Neop mal out loc mal def labio cav oral far";0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+"C15   Neopl malig do esofago";0;0;0;0;0;0;0;0;1;1;8;6;8;7;7;7;2;1;0;0;0;0;48
+"C16   Neopl malig do estomago";0;0;0;0;0;0;0;2;1;2;4;8;12;14;4;7;5;4;1;0;0;0;64
+"C17   Neopl malig do intestino delgado";0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;3;0;0;0;0;6
+"C18   Neopl malig do colon";0;0;0;0;0;0;0;2;0;1;3;9;7;7;8;12;10;4;3;0;0;0;66
+"C19   Neopl malig da juncao retossigmoide";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+"C20   Neopl malig do reto";0;0;0;0;0;1;0;0;0;0;1;1;7;5;3;1;0;2;0;0;0;0;21
+"C22   Neopl malig figado vias biliares intra-hepat";0;0;0;0;0;0;0;0;0;1;3;6;6;8;10;5;3;4;1;0;0;0;47
+"C23   Neopl malig da vesicula biliar";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;2
+"C24   Neopl malig outr partes e NE vias biliares";0;0;0;0;0;0;0;0;0;0;2;1;0;0;1;0;2;1;1;0;0;0;8
+"C25   Neopl malig do pancreas";0;0;0;0;0;0;0;0;1;2;1;2;8;9;7;2;5;3;0;0;0;0;40
+"C26   Neopl malig outr mal def aparelho digestivo";0;0;0;0;0;0;0;0;0;2;0;5;0;0;1;1;4;0;0;1;0;0;14
+"C30   Neopl malig cavidade nasal e do ouvido medio";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+"C32   Neopl malig da laringe";0;0;0;0;0;0;0;0;0;0;1;8;3;5;5;5;0;0;0;0;0;0;27
+"C34   Neopl malig dos bronquios e dos pulmoes";0;0;0;0;0;0;0;1;0;3;3;12;13;16;14;17;9;6;3;1;0;0;98
+"C37   Neopl malig do timo";0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"C38   Neopl malig do coracao mediastino e pleura";0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;3
+"C40   Neopl malig ossos/cartilag artic membros";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+"C41   Neopl malig ossos/cartil artic outr loc e NE";0;0;0;0;0;0;0;0;0;1;2;0;0;0;1;1;0;0;0;0;0;0;5
+"C43   Melanoma malig da pele";0;0;0;0;0;0;0;1;0;1;1;1;0;1;2;0;2;0;0;1;0;0;10
+"C44   Outr neopl malig da pele";0;0;0;0;0;0;0;0;0;0;0;1;1;0;2;0;1;2;1;0;0;0;8
+"C45   Mesotelioma";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+"C48   Neopl malig tec moles retro- e peritonio";0;0;0;1;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;3
+"C49   Neopl malig tec conjuntivo e outr tec moles";0;0;0;0;0;0;0;0;0;2;0;1;0;1;0;0;1;1;0;0;0;0;6
+"C60   Neopl malig do penis";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;3
+"C61   Neopl malig da prostata";0;0;0;0;0;0;0;0;0;0;0;2;6;9;16;13;18;15;13;1;0;0;93
+"C64   Neopl malig do rim exceto pelve renal";0;0;0;0;0;0;0;0;0;1;1;0;2;5;1;1;2;3;0;0;0;0;16
+"C65   Neopl malig da pelve renal";0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+"C67   Neopl malig da bexiga";0;0;0;0;0;0;0;0;0;0;0;1;1;5;5;6;5;2;1;0;0;0;26
+"C71   Neopl malig do encefalo";0;1;0;0;0;1;2;0;3;1;3;7;1;4;4;3;2;2;0;0;0;0;34
+"C72   Neop mal med esp nerv cran out sist nerv cen";0;0;0;0;0;1;0;0;0;0;1;0;3;1;0;0;0;1;0;0;0;0;7
+"C73   Neopl malig da gland tireoide";0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+"C75   Neopl malig outr gland endocrinas estr relac";0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;3
+"C76   Neopl malig outr localiz e mal definidas";0;0;0;0;0;0;0;0;1;1;1;2;1;3;3;2;3;1;0;1;0;0;19
+"C78   Neopl malig secund org respirat e digestivos";0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;1;0;0;0;0;4
+"C79   Neopl malig secund de outr localiz";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;2
+"C80   Neopl malig s/especificacao de localiz";0;0;0;0;0;0;0;0;0;0;1;2;1;4;4;3;5;1;0;0;0;0;21
+"C81   Doenc de Hodgkin";0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;3
+"C84   Linfomas de celulas T cutaneas e perifericas";0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+"C85   Linfoma nao-Hodgkin de outr tipos e tipo NE";0;0;0;0;0;0;0;0;0;1;1;1;0;1;0;1;1;0;1;0;0;0;7
+"C90   Mieloma mult e neopl malig de plasmocitos";0;0;0;0;0;0;0;0;0;0;0;0;5;2;4;3;1;0;2;1;0;0;18
+"C91   Leucemia linfoide";0;2;0;1;1;0;0;1;0;1;1;0;2;0;0;0;1;1;1;0;0;0;12
+"C92   Leucemia mieloide";0;0;0;0;0;0;1;0;0;0;2;0;2;0;2;1;3;0;0;0;0;0;11
+"C95   Leucemia de tipo celular NE";0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+"D18   Hemangioma e linfangioma de qualquer localiz";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+"D37   Neopl comp incerto/desc cav oral e org dig";0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+"D38   Neopl comp inc/desc ouv med org resp intrat";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+"D46   Sindr mielodisplasicas";0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;1;1;0;0;0;0;5
+"D47   Out neop comp inc/des tec linf hemat tec cor";0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;2;0;0;0;0;3
+"D53   Outr anemias nutricionais";0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2
+"D57   Transt falciformes";0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"D59   Anemia hemolitica adquir";0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;2
+"D61   Outr anemias aplasticas";0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;1;0;0;0;0;0;4
+"D64   Outr anemias";0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;2
+"D68   Outr defeitos da coagulacao";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+"D69   Purpura e outr afeccoes hemorragicas";0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;2
+"D73   Doenc do baco";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+"D75   Outr doenc sangue e orgaos hematopoeticos";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;2
+"D76   Alg doenc q env tec linforr e sist reticuloh";0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+"D84   Outr imunodeficiencias";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+"D89   Outr transt q comprom mecanismo imunit NCOP";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+"E04   Outr bocios nao-toxicos";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+"E10   Diabetes mellitus insulino-dependente";0;0;0;1;0;0;0;1;0;1;0;0;2;0;0;1;2;0;1;0;0;0;9
+"E11   Diabetes mellitus nao-insulino-dependemte";0;0;0;0;0;0;1;0;0;0;1;0;0;3;1;4;1;0;2;0;0;0;13
+"E14   Diabetes mellitus NE";0;0;0;1;1;1;0;0;1;1;6;11;10;16;17;21;11;7;8;3;0;0;115
+"E43   Desnutric proteico-calorica grave NE";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;2
+"E44   Desnutric proteico-calorica grau moder leve";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+"E46   Desnutric proteico-calorica NE";0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;2;0;1;0;0;5
+"E51   Defic de tiamina";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+"E66   Obesidade";0;0;0;0;0;0;0;2;2;1;0;1;1;0;2;0;0;0;0;0;0;0;9
+"E71   Dist metab aminoacidos cad ramif e acid grax";0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"E78   Disturbios metab lipoproteinas e out lipidem";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;1;1;0;0;5
+"E84   Fibrose cistica";0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;2
+"E85   Amiloidose";0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;2;0;0;0;0;0;3
+"E86   Deplecao de volume";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;1;1;0;5
+"E87   Outr transt equil hidroeletr e acido-basic";0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;2;0;2;0;1;0;8
+"E88   Outr disturbios metabolicos";0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+"F03   Demencia NE";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;2;0;0;0;4
+"F10   Transt mentais comport dev uso alcool";0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+"F14   Transt mentais e comport dev uso da cocaina";0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"F17   Transt mentais e comport dev uso de fumo";0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;1;0;0;0;0;0;3
+"F19   Transt ment comp mult drog out subst psicoat";0;0;0;0;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;4
+"F20   Esquizofrenia";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+"F32   Episodios depressivos";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1
+"F70   Retardo mental leve";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+"G00   Meningite bacter NCOP";0;0;0;0;1;0;0;0;0;0;0;0;1;1;0;1;0;0;1;0;0;0;5
+"G03   Meningite dev outr causas e a causas NE";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"G04   Encefalite mielite e encefalomielite";0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+"G12   Atrofia muscular espinal e sindr correlatas";0;0;0;0;0;0;0;0;0;2;1;1;4;1;0;1;2;1;0;0;0;0;13
+"G20   Doenc de Parkinson";0;0;0;0;0;0;0;0;0;0;1;0;1;2;8;3;12;9;4;0;0;0;40
+"G23   Outr doenc degenerativas dos ganglios base";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+"G30   Doenc de Alzheimer";0;0;0;0;0;0;0;0;0;0;0;1;0;1;4;11;16;17;11;4;0;0;65
+"G31   Outr doenc degenerativas sist nervoso NCOP";0;0;0;0;0;0;0;0;0;2;0;0;0;1;8;10;10;11;9;3;4;0;58
+"G37   Outr doenc desmielinizantes sist nerv centr";0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+"G40   Epilepsia";1;0;0;1;0;0;1;0;0;0;0;0;0;1;1;1;0;1;0;0;0;0;7
+"G41   Estado de mal epileptico";0;0;0;0;0;0;0;0;0;1;2;1;2;1;1;0;0;1;0;0;0;0;9
+"G45   Acid vasc cerebr isquemicos trans sindr corr";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+"G61   Polineuropatia inflam";0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;2
+"G62   Outr polineuropatias";0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+"G70   Miastenia gravis outr transt neuromusculares";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;4
+"G71   Transt prim dos musculos";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"G80   Paralisia cerebral";0;0;0;1;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;5
+"G81   Hemiplegia";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+"G82   Paraplegia e tetraplegia";0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+"G83   Outr sindr paraliticas";0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"G90   Transt do sist nervoso autonomo";0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+"G91   Hidrocefalia";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+"G93   Outr transt do encefalo";0;0;0;0;2;2;0;0;0;1;2;0;2;2;2;0;0;1;0;0;0;0;14
+"G96   Outr transt do sist nervoso central";0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+"G98   Outr transt do sist nervoso NCOP";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1
+"I10   Hipertensao essencial";0;0;0;0;0;0;0;0;0;0;0;1;3;2;3;1;6;6;4;2;0;0;28
+"I11   Doenc cardiaca hipertensiva";0;0;0;0;0;0;0;0;1;1;0;0;5;5;5;0;6;3;3;1;0;0;30
+"I12   Doenc renal hipertensiva";0;0;0;0;0;0;0;0;0;0;1;0;1;2;2;2;0;2;1;0;0;0;11
+"I13   Doenc cardiaca e renal hipertensiva";0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;1;3;1;1;0;0;0;9
+"I15   Hipertensao secund";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+"I20   Angina pectoris";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;2
+"I21   Infarto agudo do miocardio";0;0;0;0;0;2;5;13;23;27;28;45;69;67;53;56;39;33;19;6;0;0;485
+"I24   Outr doenc isquemicas agudas do coracao";0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;1;1;0;1;0;0;0;6
+"I25   Doenc isquemica cronica do coracao";0;0;0;0;0;0;0;1;5;2;1;11;7;7;9;12;19;6;6;5;0;0;91
+"I26   Embolia pulmonar";0;0;0;0;0;2;2;1;2;1;1;2;0;2;0;2;1;1;0;0;0;0;17
+"I27   Outr form de doenc cardiaca pulmonar";0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+"I28   Outr doenc dos vasos pulmonares";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+"I31   Outr doenc do pericardio";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1
+"I33   Endocardite aguda e subaguda";0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;3
+"I34   Transt nao-reumaticos da valva mitral";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;3
+"I35   Transt nao-reumaticos da valva aortica";0;0;0;0;0;0;1;0;0;0;1;0;2;2;1;1;0;1;1;0;0;0;10
+"I38   Endocardite de valva NE";0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;2;0;0;0;0;0;0;4
+"I42   Cardiomiopatias";1;0;0;2;1;0;1;0;3;3;5;8;8;8;9;2;2;8;4;2;0;0;67
+"I44   Bloqueio atrioventricular e do ramo esquerdo";0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;1;2;0;0;0;6
+"I46   Parada cardiaca";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;1;0;0;0;4
+"I47   Taquicardia paroxistica";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;2
+"I48   Flutter e fibrilacao atrial";0;0;0;0;0;0;0;0;1;0;0;0;1;0;3;6;5;2;2;0;0;0;20
+"I49   Outr arritmias cardiacas";0;0;0;0;0;0;0;0;0;2;0;1;5;2;1;3;5;0;3;1;0;0;23
+"I50   Insuf cardiaca";0;0;0;0;0;0;0;0;1;1;0;7;3;6;8;10;10;6;10;3;0;0;65
+"I51   Complic cardiopatias doenc cardiacas mal def";0;0;0;1;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;3
+"I60   Hemorragia subaracnoide";0;0;0;1;0;0;0;0;0;3;2;4;3;6;0;4;0;1;1;0;0;0;25
+"I61   Hemorragia intracerebral";0;0;0;0;1;0;1;1;3;1;6;0;4;5;2;5;2;2;0;0;0;0;33
+"I62   Outr hemorragias intracranianas nao-traum";0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;1;1;0;0;0;5
+"I63   Infarto cerebral";0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;1;1;0;0;0;4
+"I64   Acid vasc cerebr NE como hemorrag isquemico";0;0;0;0;0;0;0;0;0;1;4;5;18;16;14;18;19;11;4;0;0;0;110
+"I67   Outr doenc cerebrovasculares";0;0;0;0;0;0;0;1;1;3;4;5;9;6;11;6;12;4;5;1;0;0;68
+"I69   Sequelas de doenc cerebrovasculares";0;0;0;0;0;0;0;1;1;0;1;2;4;9;11;13;18;12;7;1;1;0;81
+"I70   Aterosclerose";0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;1;0;0;0;3
+"I71   Aneurisma e disseccao da aorta";0;0;1;0;0;0;1;1;1;4;5;2;6;7;6;6;4;4;1;1;0;0;50
+"I72   Outr aneurismas";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;2
+"I73   Outr doenc vasculares perifericas";0;0;0;0;0;0;1;0;0;0;0;0;2;0;0;1;1;1;0;0;0;0;6
+"I74   Embolia e trombose arteriais";0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;1;1;0;1;1;0;0;7
+"I77   Outr afeccoes das arterias e arteriolas";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+"I80   Flebite e tromboflebite";0;0;0;0;0;0;0;0;0;0;0;0;2;2;1;1;0;0;0;0;0;0;6
+"I81   Trombose da veia porta";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+"I82   Outr embolia e trombose venosas";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+"I83   Varizes dos membros infer";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;2
+"I85   Varizes esofagianas";0;0;0;0;0;0;0;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;4
+"I99   Outr transt do aparelho circulatorio e os NE";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+"J05   Laringite obstrutiva aguda e epiglotite";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+"J09   Influenza dev virus gripe aviária";0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;1;2;1;3;0;1;0;11
+"J10   Influenza dev outro virus influenza ident";0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"J11   Influenza dev virus nao identificado";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+"J12   Pneumonia viral NCOP";0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+"J15   Pneumonia bacter NCOP";1;0;0;0;0;0;1;0;1;1;0;3;3;2;2;1;8;7;6;2;0;0;38
+"J18   Pneumonia p/microorg NE";2;0;0;1;0;1;0;6;5;7;7;8;11;13;20;27;29;37;23;9;3;1;210
+"J21   Bronquiolite aguda";4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;5
+"J22   Infecc agudas NE das vias aereas infer";0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+"J32   Sinusite cronica";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+"J38   Doenc das cordas vocais e da laringe NCOP";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+"J41   Bronquite cronica simples e a mucopurulenta";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+"J43   Enfisema";0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;2;3;2;4;1;1;0;16
+"J44   Outr doenc pulmonares obstrutivas cronicas";0;0;0;0;0;0;0;0;0;1;4;8;10;14;17;24;23;20;12;4;0;0;137
+"J45   Asma";0;0;0;1;0;0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;5
+"J61   Pneumoconiose dev amianto outr fibr minerais";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1
+"J62   Pneumoconiose dev poeira que cont silica";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;2
+"J68   Afecc resp dev inal prod quim gas fumac vap";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+"J69   Pneumonite dev solidos e liquidos";0;0;0;0;0;0;0;0;0;1;0;2;1;2;2;3;4;4;10;1;0;0;30
+"J80   Sindr do desconforto respirat do adulto";0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+"J81   Edema pulmonar NE de outr form";0;0;0;1;1;0;2;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;8
+"J84   Outr doenc pulmonares intersticiais";0;0;0;0;0;0;0;0;0;0;0;0;0;2;5;1;2;6;2;0;0;0;18
+"J85   Abscesso do pulmao e do mediastino";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+"J86   Piotorax";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+"J90   Derrame pleural NCOP";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;2
+"J91   Derrame pleural em afeccoes COP";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+"J93   Pneumotorax";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;2
+"J94   Outr afeccoes pleurais";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+"J96   Insuf respirat NCOP";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+"J98   Outr transt respirat";0;0;0;0;0;0;1;1;2;2;2;4;2;3;1;2;3;5;2;1;2;0;33
+"K21   Doenc de refluxo gastroesofagico";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+"K22   Outr doenc do esofago";0;0;0;0;0;0;0;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;5
+"K25   Ulcera gastrica";0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;1;1;1;0;0;0;0;7
+"K26   Ulcera duodenal";0;0;0;0;0;0;0;1;0;1;0;1;0;0;2;0;2;1;0;0;0;0;8
+"K27   Ulcera peptica de localiz NE";0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;1;1;0;0;0;0;0;5
+"K29   Gastrite e duodenite";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+"K31   Outr doenc do estomago e do duodeno";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;3
+"K35   Apendicite aguda";0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;2;0;1;0;0;0;5
+"K40   Hernia inguinal";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;2;1;0;0;0;5
+"K44   Hernia diafragmatica";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+"K46   Hernia abdominal NE";0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;1;0;1;0;0;4
+"K50   Doenc de Crohn";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+"K52   Outr gastroenterites e colites nao-infecc";0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;2;0;0;0;0;0;3
+"K55   Transt vasculares do intestino";0;0;0;0;0;0;0;0;1;0;0;1;3;3;2;3;2;2;1;0;1;0;19
+"K56   Ileo paralitico e obstr intestinal s/hernia";0;0;0;0;0;0;0;0;0;0;0;2;2;1;1;1;4;3;2;1;0;0;17
+"K57   Doenc diverticular do intestino";0;0;0;0;0;0;0;0;0;0;1;0;0;0;2;1;2;0;0;1;0;0;7
+"K59   Outr transt funcionais do intestino";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;2
+"K61   Abscesso das regioes anal e retal";0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+"K63   Outr doenc do intestino";0;0;0;0;0;0;0;0;0;0;0;0;2;2;0;3;1;0;1;0;0;0;9
+"K65   Peritonite";0;0;0;0;0;0;0;0;0;2;0;0;1;2;0;3;2;0;0;0;0;0;10
+"K66   Outr transt do peritonio";0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+"K70   Doenc alcoolica do figado";0;0;0;0;0;0;1;4;3;7;10;13;11;7;3;1;1;0;1;0;0;0;62
+"K72   Insuf hepatica NCOP";0;0;0;0;0;1;0;0;1;1;0;0;0;1;2;0;0;1;0;0;0;0;7
+"K73   Hepatite cronica NCOP";0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+"K74   Fibrose e cirrose hepaticas";0;1;0;0;0;0;0;0;2;3;4;4;3;4;6;0;3;0;0;0;0;0;30
+"K75   Outr doenc inflam do figado";0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+"K76   Outr doenc do figado";0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;2;2;0;0;0;0;0;6
+"K80   Colelitiase";0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;1;2;1;2;0;0;0;10
+"K81   Colecistite";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;1;0;2;2;0;0;8
+"K83   Outr doenc das vias biliares";0;0;0;0;0;1;0;0;0;0;1;0;0;0;1;1;3;1;0;0;0;0;8
+"K85   Pancreatite aguda";0;0;0;0;0;0;1;0;1;2;2;3;1;0;2;0;1;0;2;0;0;0;15
+"K86   Outr doenc do pancreas";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;2
+"K92   Outr doenc do aparelho digestivo";1;0;0;0;0;0;0;0;0;0;0;2;1;5;2;1;4;3;3;0;0;0;22
+"L03   Celulite";0;0;0;0;0;0;0;0;0;1;0;0;1;0;3;0;0;2;0;0;0;0;7
+"L08   Outr infecc localiz pele e tec subcutaneo";0;0;0;0;0;0;0;0;0;0;0;1;2;0;2;0;2;0;0;1;0;0;8
+"L51   Eritema polimorfo";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+"L89   Ulcera de decubito";0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;2;1;1;0;1;0;0;8
+"L97   Ulcera dos membros infer NCOP";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;2
+"L98   Outr afeccoes da pele e tec subcutaneo NCOP";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;3
+"M00   Artrite piogenica";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+"M06   Outr artrites reumatoides";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+"M16   Coxartrose";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;2
+"M30   Poliarterite nodosa e afeccoes correlatas";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"M32   Lupus eritematoso disseminado";0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"M33   Dermatopoliomiosite";0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"M34   Esclerose sistemica";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+"M46   Outr espondilopatias inflam";0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+"M47   Espondilose";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+"M60   Miosite";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;2
+"M62   Outr transt musculares";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;2
+"M84   Transt da continuidade do osso";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;1;0;0;0;0;4
+"M86   Osteomielite";0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;1;0;0;0;0;4
+"N04   Sindr nefrotica";0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+"N10   Nefrite tubulo-intersticial aguda";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1
+"N12   Nefrite tubulo-intersticial NE aguda cronica";1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;5
+"N17   Insuf renal aguda";0;0;0;0;0;0;0;0;1;0;0;0;2;3;0;6;5;2;1;1;0;0;21
+"N18   Insuf renal cronica";0;0;0;0;0;0;0;0;0;1;0;1;2;0;2;7;1;4;3;0;1;0;22
+"N19   Insuf renal NE";0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;2;2;1;1;0;0;0;9
+"N20   Calculose do rim e do ureter";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;2
+"N21   Calculose do trato urinario infer";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;2
+"N28   Outr transt do rim e do ureter NCOP";0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;2
+"N39   Outr transt do trato urinario";0;0;0;0;0;0;0;1;0;1;2;4;3;7;4;10;10;13;15;9;1;0;80
+"N40   Hiperplasia da prostata";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;6;1;1;0;0;11
+"N41   Doenc inflam da prostata";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;2
+"N42   Outr afeccoes da prostata";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+"N49   Transt inflam orgaos genitais masc NCOP";0;0;0;0;0;0;0;0;0;0;2;0;0;0;1;0;1;0;0;0;0;0;4
+"P00   Fet rec-nasc afet afec mat n obr rel grav at";4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+"P02   Fet rec-nasc afet compl plac cord umb membr";4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+"P07   Transt rel gest curt dur peso baix nasc NCOP";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"P20   Hipoxia intra-uterina";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"P21   Asfixia ao nascer";5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+"P22   Desconforto respirat do recem-nascido";5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+"P26   Hemorragia pulmonar orig periodo perinatal";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+"P27   Doenc respirat cron orig periodo perinatal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"P28   Outr afeccoes respirat orig per perinatal";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+"P29   Transt cardiovasc orig periodo perinatal";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+"P36   Septicemia bacter do recem-nascido";4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+"P61   Outr transt hematologicos perinatais";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+"P77   Enterocolite necrotizante do feto e rec-nasc";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"P96   Outr afeccoes originadas periodo perinatal";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+"Q00   Anencefalia e malformacoes similares";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"Q04   Outr malformacoes congen do cerebro";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"Q21   Malformacoes congen dos septos cardiacos";0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+"Q22   Malform congen valvas pulmonar tricuspide";0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"Q23   Malformacoes congen valvas aortica e mitral";1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+"Q24   Outr malformacoes congen do coracao";1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;2
+"Q25   Malformacoes congen das grandes arterias";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+"Q33   Malformacoes congen do pulmao";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"Q61   Doenc cisticas do rim";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+"Q87   Outr sindr c/malform cong q acomet mult sist";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"Q89   Outr malformacoes congen NCOP";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"Q90   Sindr de Down";0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"Q91   Sindr de Edwards e sindr de Patau";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+"Q99   Outr anomalias dos cromossomos NCOP";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"R09   Outr sint sinais relat ap circulat respirat";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1
+"R54   Senilidade";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;4;1;3;0;0;11
+"R64   Caquexia";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+"R68   Outr sint e sinais gerais";0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;3
+"R96   Outr mortes subitas de causa desconhecida";0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;1;0;0;0;0;0;0;4
+"R98   Morte s/assist";0;0;0;0;0;0;0;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;3
+"R99   Outr causas mal definidas e NE mortalidade";3;0;0;0;1;0;1;2;1;2;1;2;3;1;1;2;1;2;0;1;0;0;24
+"V02   Pedestre traum colis veic motor 2 3 rodas";0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"V03   Pedestre traum colis automov pickup caminhon";0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"V04   Pedestre traum colis veic transp pesado onib";0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"V05   Pedestre traum colis trem veic ferroviario";0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+"V09   Pedestre traum outr acid transp e NE";0;0;0;1;5;2;1;1;4;8;0;1;2;3;0;3;1;1;0;0;0;0;33
+"V18   Ciclista traum acid transp s/colis";0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+"V19   Ciclista traum acid transp e NE";0;0;0;0;0;0;0;2;0;1;0;0;1;1;0;0;0;0;0;0;0;0;5
+"V23   Motocicl traum colis automov pickup caminhon";0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+"V24   Motocicl traum colis veic transp pesado onib";0;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;3
+"V27   Motocicl traum colis objeto fixo parado";0;0;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+"V29   Motociclista traum outr acid transp e NE";0;0;0;2;10;6;4;5;3;0;4;0;0;0;0;0;0;0;0;0;0;0;34
+"V43   Ocup automov traum col auto pickup caminhon";0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+"V44   Ocup autom traum colis veic trans pesad onib";0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+"V47   Ocup automovel traum colis obj fixo parado";0;0;0;0;0;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;4
+"V48   Ocup automovel traum acid transp s/colis";0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+"V49   Ocup automovel traum outr acid transp e NE";0;0;0;0;1;1;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;6
+"V54   Ocup caminhon traum col veic transp pes onib";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"V57   Ocup caminhonete traum colis obj fixo parado";0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"V64   Ocup v tr pes tr col outr veic tr pes onib";0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"V87   Acid trans tipo espec desconh mod transp vit";0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+"V89   Acid veic mot n-mot tipos de veic NE";0;0;0;2;3;1;1;1;1;3;0;1;1;1;0;0;0;0;0;0;0;0;15
+"V99   Acid transp NE";0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"W06   Queda de um leito";0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+"W10   Queda em ou de escadas ou degraus";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+"W13   Queda de ou p/fora edificios outr estruturas";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+"W14   Queda de arvore";0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+"W17   Outr quedas de um nivel a outr";0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;1;0;1;0;0;0;0;5
+"W18   Outr quedas no mesmo nivel";0;0;1;0;0;0;0;0;0;0;2;3;1;0;5;3;4;2;3;2;0;0;26
+"W19   Queda s/especificacao";0;0;1;0;0;0;0;0;2;0;2;1;6;0;0;5;11;10;7;1;0;0;46
+"W20   Impacto caus objeto lanc projetado em queda";0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+"W31   Contato c/outr maquinas e c/as NE";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+"W34   Projeteis de outr armas de fogo e das NE";0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"W69   Afogamento e submersao em aguas naturais";0;0;0;1;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;5
+"W74   Afogamento e submersao NE";1;0;0;2;1;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;7
+"W78   Inalacao do conteudo gastrico";1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;2
+"W79   Inalacao ingest aliment caus obstr trat resp";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+"W80   Inalac ingest outr obj caus obstr trat resp";1;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;3
+"W87   Exposicao a corrente eletrica NE";0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"X02   Exposicao fogo contr edif outr tipo constr";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+"X03   Expos fogo contr fora edif outr tipo constr";0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"X04   Exposicao combustao subst muito inflamavel";0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+"X09   Exposicao a tipo NE de fumaca fogo chamas";0;0;0;0;0;0;1;0;2;2;0;0;1;1;0;0;0;0;0;0;0;0;7
+"X19   Contato outr fontes calor subst quentes NE";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+"X44   Envenen acid outr drog medic subst biolog NE";0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+"X59   Exposicao a fatores NE";0;0;0;0;0;0;0;0;0;0;2;1;1;0;1;0;0;0;0;0;0;0;5
+"X64   Auto-int intenc out drog med subst biolog NE";0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"X67   Auto-intox intenc p/outr gases e vapores";0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"X68   Auto-intox intenc a pesticidas";0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+"X69   Auto-int intenc outr prod quim subst noc NE";0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"X70   Lesao autoprov intenc enforc estrang sufoc";0;0;2;0;6;8;5;5;4;2;2;3;3;4;2;1;0;0;1;0;0;0;48
+"X72   Lesao autoprov intenc disp arma fogo de mao";0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"X74   Lesao autopr intenc disp outr arma fogo e NE";0;0;0;0;0;0;0;0;3;0;1;0;0;0;1;0;0;0;0;0;0;0;5
+"X79   Lesao autoprov intenc p/objeto contundente";0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"X80   Lesao autoprov intenc precip lugar elevado";0;0;0;0;1;0;2;0;1;0;0;0;0;1;1;1;0;0;0;0;0;0;7
+"X84   Lesao autoprov intenc p/meios NE";0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+"X91   Agressao enforc estrangulamento sufocacao";0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+"X93   Agressao disparo de arma de fogo de mao";0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"X95   Agressao disparo outr arma de fogo ou NE";0;0;0;5;12;24;11;8;7;7;3;2;3;1;0;0;0;1;0;0;0;0;84
+"X99   Agressao objeto cortante ou penetrante";0;0;0;0;0;6;5;1;2;2;2;2;1;0;0;0;0;0;0;0;0;0;21
+"Y00   Agressao p/meio de um objeto contundente";0;0;0;0;0;2;0;0;2;1;4;0;1;0;0;0;0;0;0;0;0;0;10
+"Y09   Agressao p/meios NE";0;0;0;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;4
+"Y12   Envenen narcot psicodislept NCOP int n det";0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"Y14   Env out drog med subst biolog e NE int n det";0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"Y15   Envenen alcool intencao nao determinada";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+"Y19   Env out prod quim subst noc e NE int n det";0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+"Y21   Afogamento submersao intenc nao determinada";0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+"Y29   Contato obj contundente intenc n det";0;0;0;0;2;2;3;1;2;3;2;2;5;1;0;0;0;0;0;0;0;1;24
+"Y34   Fatos ou eventos NE e intenc nao determinada";1;0;1;0;1;4;2;6;3;8;3;2;4;5;2;2;0;0;1;0;0;5;50
+"Y85   Sequelas de acid transp";0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"Y87   Seq lesao autopr inten agress fato int indet";0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"Y88   Sequelas cuid med cirurg consid causa ext";0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+"Y89   Sequelas de outr causas externas";0;0;0;0;0;0;0;0;1;1;0;4;0;0;0;0;1;0;0;0;0;0;7
+"Total";82;8;10;31;60;87;83;108;137;185;218;355;447;492;511;525;547;460;315;101;19;8;4789
